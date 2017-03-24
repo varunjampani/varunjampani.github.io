@@ -1,6 +1,6 @@
 ---
 title: "Home"
-layout: textlay
+layout: gridlay
 excerpt: "Varun Jampani"
 sitemap: false
 permalink: /allnews.html

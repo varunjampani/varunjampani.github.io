@@ -1,7 +1,7 @@
 - title: Efficient 2D and 3D Facade Segmentation using Auto-Context
   image: pami_2017_teaser.png
   description:
-    A fast auto-context based facade segmentation approach that works on both 2D images and 3D point clouds.
+    A fast auto-context based facade segmentation approach for segmenting both 2D images and 3D point clouds.
   authors: R. Gadde&#42;, V. Jampani&#42;, R. Marlet and P. V. Gehler (&#42;equal contribution)
   venue: Pattern Analysis and Machine Intelligence, PAMI'17
   number_link: 2

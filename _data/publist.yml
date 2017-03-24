@@ -1,0 +1,186 @@
+- title: Efficient 2D and 3D Facade Segmentation using Auto-Context
+  image: pami_2017_teaser.png
+  description:
+    A fast auto-context based facade segmentation approach that works on both 2D images and 3D point clouds.
+  authors: R. Gadde&#42;, V. Jampani&#42;, R. Marlet and P. V. Gehler (&#42;equal contribution)
+  venue: Pattern Analysis and Machine Intelligence, PAMI'17
+  number_link: 2
+  link1:
+    url: https://arxiv.org/abs/1606.06437
+    display: arXiv pre-print
+  link2:
+    url: https://bitbucket.org/rgadde/wacv15_code
+    display: code (bitbucket)
+
+- title: Video Propagation Networks
+  image: vpn_teaser.png
+  description: A fast, generic and end-to-end trainable approach for propagating information across video frames.
+  authors: V. Jampani, R. Gadde and P. V. Gehler
+  venue: Computer Vision and Pattern Recognition, CVPR'17
+  number_link: 2
+  link1:
+    url: https://arxiv.org/abs/1612.05478
+    display: arXiv pre-print
+  link2:
+    url:
+    display: code coming soon
+
+
+- title: Superpixel Convolutional Networks using Bilateral Inceptions
+  image: binceptions_teaser.png
+  description: An inception style fast bilateral filtering module that can be used in existing image segmentation CNNs.
+  authors: R. Gadde&#42;, V. Jampani&#42;, M. Kiefel, D. Kappler and P. V. Gehler (&#42;equal contribution)
+  venue: European Conference on Computer Vision, ECCV'16
+  number_link: 5
+  link1:
+    url: https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/288/0187.pdf
+    display: pdf
+  link2:
+    url: https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/289/0187-supp.pdf
+    display: supplementary
+  link3:
+    url: http://segmentation.is.tuebingen.mpg.de
+    display: project Page
+  link4:
+    url: https://github.com/raghudeep/bilateralinceptions
+    display: code (github)
+  link5:
+    url: https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/300/ECCV_poster.pdf
+    display: poster
+
+
+- title: Learning Sparse High-Dimensional Filters&#58; Image Filtering, Dense CRFs and Bilateral Neural Networks
+  image: bilateral_cvpr16_teaser.png
+  description: Parameterization and learning of sparse high-dimensional filters with wide range of applications in image filtering, CRFs and neural networks.
+  authors: V. Jampani;, M. Kiefel and P. V. Gehler
+  venue: Computer Vision and Pattern Recognition, CVPR'16
+  number_link: 5
+  link1:
+    url: http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jampani_Learning_Sparse_High_CVPR_2016_paper.pdf
+    display: pdf
+  link2:
+    url: https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/264/0766-supp_cameraready.pdf
+    display: supplementary
+  link3:
+    url: http://bilateralnn.is.tuebingen.mpg.de
+    display: project Page
+  link4:
+    url: https://github.com/MPI-IS/bilateralNN
+    display: code (github)
+  link5:
+    url: https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/279/cvpr_poster.pdf
+    display: poster
+
+
+- title: Optical Flow with Semantic Segmentation and Localized Layers
+  image: flow_cvpr16_teaser.png
+  description: An approach for incorporating semantics of the scene for better optical flow estimation.
+  authors: L. Sevilla, D. Sun, V. Jampani and  M. J. Black
+  venue: Computer Vision and Pattern Recognition, CVPR'16
+  number_link: 4
+  link1:
+    url: http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Sevilla-Lara_Optical_Flow_With_CVPR_2016_paper.pdf
+    display: pdf
+  link2:
+    url: https://youtu.be/QwmBSTWgr_s
+    display: video
+  link3:
+    url: https://ps.is.tuebingen.mpg.de/research_projects/semantic-optical-flow
+    display: project Page
+  link4:
+    url: https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/281/semantic_flow_code_release.zip
+    display: code (zip)
+
+- title: Permutohedral Lattice CNNs
+  image: iclr_15_teaser.png
+  description: CNNs with high-dimensional permutohedral kernels instead of standard spatial kernels.
+  authors: M. Kiefel, V. Jampani and P. V. Gehler
+  venue: International Conference on Learning Representations, ICLR Workshops'15
+  number_link: 1
+  link1:
+    url: http://arxiv.org/pdf/1412.6618.pdf
+    display: pdf
+
+- title: Consensus Message Passing for Layered Graphical Models
+  image: aistats_15_teaser.png
+  description: Improved message passing inference in layered vision models that can be used in probabilistic programs like Infer.NET.
+  authors: V. Jampani, S. M. A. Eslami, D. Tarlow, P. Kohli and J. Winn
+  venue: Artificial Intelligence and Statistics, AISTATS'15
+  number_link: 3
+  link1:
+    url: http://jmlr.org/proceedings/papers/v38/jampani15.pdf
+    display: pdf
+  link2:
+    url: http://jmlr.org/proceedings/papers/v38/jampani15-supp.pdf
+    display: supplementary
+  link3:
+    url: https://arxiv.org/abs/1410.7452
+    display: arXiv
+
+- title: Efficient Facade Segmentation using Auto-Contex
+  image: wacv_15_teaser.png
+  description: A state-of-the-art approach for facade segmentation that is faster than most existing approaches.
+  authors: V. Jampani&#42;, R. Gadde&#42; and P. V. Gehler (&#42;equal contribution)
+  venue: Winter Conference on Applications of Computer Vision, WACV'15
+  number_link: 4
+  link1:
+    url: http://files.is.tue.mpg.de/vjampani/jampani15_wacv.pdf
+    display: pdf
+  link2:
+    url: http://files.is.tue.mpg.de/vjampani/jampani15_wacv-supp.pdf
+    display: supplementary
+  link3:
+    url: https://bitbucket.org/rgadde/wacv15_code
+    display: code (bitbucket)
+  link4:
+    url: https://ps.is.tue.mpg.de/research_projects/facade-segmentation
+    display: project page
+
+- title: The Informed Sampler&#58; A Discriminative Approach to Bayesian Inference in Generative Computer Vision Models
+  image: cviu_15_teaser.png
+  description: A generic MCMC sampling technique for inverting graphic engines.
+  authors: V. Jampani, S. Nowozin, M. Loper and P. V. Gehler
+  venue: Computer Vision and Image Understanding Journal, CVIU'15
+  number_link: 2
+  link1:
+    url: https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/260/jampani2015informedsampler.pdf
+    display: pdf
+  link2:
+    url: http://arxiv.org/pdf/1402.0859v3.pdf
+    display: arXiv
+
+- title: Assessment of Computational Visual Attention Models on Medical Images
+  image: icvgip_12_teaser.png
+  description: Analysis and extensions of visual attention models for medical image perception.
+  authors: V. Jampani, Ujjwal, J. Sivaswamy and V. Vaidya
+  venue: Indian Conference on Computer Vision, Graphics and Image Processing, ICVGIP'12
+  number_link: 2
+  link1:
+    url: http://files.is.tue.mpg.de/vjampani/jampani12_ICVGIP.pdf
+    display: pdf
+  link2:
+    url: http://dl.acm.org/citation.cfm?doid=2425333.2425413
+    display: online
+
+- title: Role of Expertise and Contralateral Symmetry in the Diagnosis of Pneumoconiosis&#58; An Experimental Study
+  image: spie_11_teaser.png
+  description: An experimental eye-tracking study on X-ray image perception, with observers ranging from novices to experienced radiologists.
+  authors: V. Jampani, V. Vaidya, J. Sivaswamy and K. L. Tourani
+  venue: SPIE, Medical Imaging'11
+  number_link: 1
+  link1:
+    url: http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1349984
+    display: online
+
+- title: ImageFlow&#58; Streaming Image Search
+  image: imgflow_10_teaser.png
+  description: A novel image search user interface that explores a different alternative to the traditional grid interfaces.
+  authors: V. Jampani, G. Ramos and S. Drucket
+  venue: Microsoft Research Technial Report, Redmond, MSR-TR-2010-148
+  number_link: 2
+  link1:
+    url: http://files.is.tue.mpg.de/vjampani/jampani09_MSRTR.pdf
+    display: pdf
+  link2:
+    url: http://www.inventinginteractive.com/2010/12/21/imageflow-streaming-3d-image-search/
+    display: news article

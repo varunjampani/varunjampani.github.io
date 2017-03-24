@@ -1,0 +1,10 @@
+- title: A Study of X-Ray Image Perception for Pneumoconiosis Detection
+  image: ms_thesis_teaser.png
+  description:
+    Eye tracking experimental studies and models for X-Ray Image Perception and Diagnosis.
+  authors: V. Jampani
+  venue: Master Thesis, IIIT-Hyderabad, January, 2013
+  number_link: 1
+  link1:
+    url: http://files.is.tue.mpg.de/vjampani/jampani13_MSTHESIS.pdf
+    display: pdf

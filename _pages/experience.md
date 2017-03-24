@@ -20,7 +20,7 @@ I am a reviewer for the following conferences and journals.
 <li>Image and Vision Computing Journal (<strong>IMAVIS</strong>) - 2017</li>
 <li>European Conference on Computer Vision (<strong>ECCV</strong>) - 2016 (<strong>Outstanding Reviewer award</strong>)</li>
 <li>Neural Information Processing Systems (<strong>NIPS</strong>) - 2015</li>
-<li>Pattern Analysis and Machine Intelligence Journal (<strong>PAMI</strong>) - 2015,2016</li>
+<li>Pattern Analysis and Machine Intelligence Journal (<strong>PAMI</strong>) - 2015, 2016</li>
 
 </ul>
 

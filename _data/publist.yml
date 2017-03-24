@@ -52,7 +52,7 @@
 - title: Learning Sparse High-Dimensional Filters&#58; Image Filtering, Dense CRFs and Bilateral Neural Networks
   image: bilateral_cvpr16_teaser.png
   description: Parameterization and learning of sparse high-dimensional filters with wide range of applications in image filtering, CRFs and neural networks.
-  authors: V. Jampani;, M. Kiefel and P. V. Gehler
+  authors: V. Jampani, M. Kiefel and P. V. Gehler
   venue: Computer Vision and Pattern Recognition, CVPR'16
   number_link: 5
   link1:
@@ -104,7 +104,7 @@
 - title: Consensus Message Passing for Layered Graphical Models
   image: aistats_15_teaser.png
   description: Improved message passing inference in layered vision models that can be used in probabilistic programs like Infer.NET.
-  authors: V. Jampani, S. M. A. Eslami, D. Tarlow, P. Kohli and J. Winn
+  authors: V. Jampani&#42;, S. M. A. Eslami&#42;, D. Tarlow, P. Kohli and J. Winn (&#42;equal contribution)
   venue: Artificial Intelligence and Statistics, AISTATS'15
   number_link: 3
   link1:

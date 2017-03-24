@@ -12,7 +12,7 @@ permalink: /
 
 <div class="col-sm-8">
 
-I am Varun Jampani, a PhD student at [Perceiving Systems](https://ps.is.tuebingen.mpg.de) department, Max-Planck Institute (MPI) for Intelligent Systems in T&uuml;bingen, Germany. My supervisor is [Prof. Peter V. Gehler](http://files.is.tue.mpg.de/pgehler//). Before coming to MPI, I did my bachelors and masters in Computer Science at [IIIT-Hyderabad](https://www.iiit.ac.in), India.
+I am a PhD student at [Perceiving Systems](https://ps.is.tuebingen.mpg.de) department, Max-Planck Institute (MPI) for Intelligent Systems in T&uuml;bingen, Germany. My supervisor is [Prof. Peter V. Gehler](http://files.is.tue.mpg.de/pgehler//). Before coming to MPI, I did my bachelors and masters in Computer Science at [IIIT-Hyderabad](https://www.iiit.ac.in), India.
 
 My work lies at the intersection of Computer Vision, Machine Learning and Computer Graphics. Specifically, I am working on leveraging machine learning techniques for better inference in computer vision models. The main research question is how to make use of learning techniques such as deep neural networks and random forests for inference in structured prediction frameworks.
 

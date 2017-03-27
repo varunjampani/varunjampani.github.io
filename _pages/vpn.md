@@ -3,7 +3,7 @@ title: "Varun Jampani - VPN"
 layout: gridlay
 excerpt: "Varun Jampani: VPN"
 sitemap: false
-permalink: /vpn
+permalink: /vpn/
 ---
 
 [comment]: Title

@@ -14,11 +14,10 @@ body {
 }
 
 figcaption {
-    text-align: right;
+    text-align: center;
     margin-top: -20px;
     margin-bottom: 20px;
 }
-
 
 
 /* Top navigation bar */
@@ -66,6 +65,7 @@ firstp {
 #homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
 #picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
 #gridid .row { margin-bottom: 24px; }
+#projectid img { margin: 0 0 0 0; border-radius:0%; box-shadow: none; -webkit-box-shadow: none; -moz-box-shadow: none; }
 
 
 /* Grid overrides */

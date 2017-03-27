@@ -24,33 +24,43 @@ permalink: /publications/
  <p>{{ publi.venue }}</p>
 
  {% if publi.number_link == 1 %}
- <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>]</p>
+ <p><a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a></p>
  {% endif %}
 
  {% if publi.number_link == 2 %}
- <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>],
- [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>]</p>
+ <p><a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>
+ /
+ <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a></p>
  {% endif %}
 
  {% if publi.number_link == 3 %}
- <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>],
- [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>],
- [<a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>]</p>
+ <p><a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>
+ /
+ <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>
+ /
+ <a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a></p>
  {% endif %}
 
  {% if publi.number_link == 4 %}
- <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>],
- [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>],
- [<a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>],
- [<a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a>]</p>
+ <p><a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>
+ /
+ <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>
+ /
+ <a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>
+ /
+ <a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a></p>
  {% endif %}
 
  {% if publi.number_link == 5 %}
- <p>[<a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>],
- [<a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>],
- [<a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>],
- [<a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a>],
- [<a href="{{ publi.link5.url }}">{{ publi.link5.display }}</a>]</p>
+ <p><a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>
+ /
+ <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>
+ /
+ <a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>
+ /
+ <a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a>
+ /
+ <a href="{{ publi.link5.url }}">{{ publi.link5.display }}</a></p>
  {% endif %}
 
  </div>

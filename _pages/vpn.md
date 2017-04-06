@@ -38,6 +38,16 @@ In this paper we propose a technique that propagates information forward through
 <!-- - Supplementary: <a href="https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/264/0766-supp_cameraready.pdf" style="color: #CC0000"> PDF </a>
 - Poster: <a href="https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/279/cvpr_poster.pdf" style="color: #CC0000"> PDF </a> -->
 
+[comment]: Code
+<h3> Code </h3>
+We integrated video propagation network into <a href="http://caffe.berkeleyvision.org/" style="color: #CC0000"> Caffe </a> neural network framework. Code will be made available very soon.
+
+
+<h3> Usage </h3>
+
+The video propagation networks are generic and can be used for propagating any type of information across video frames. They are end-to-end trainable and can be combined with any existing deep network. The main use of VPNs in comparison to standard spatio-temporal CNNs is that VPNs can enable long-range pixel/superpixel connections while being computationally fast. In this paper, we experimented with label propagation (foreground or semantic labels) and colour propagation. See experiments in the paper and the corresponding code.
+
+<h3> Citation </h3>
 Please consider citing the following paper if you make use of this work and/or the corresponding code:
 
 ```
@@ -50,6 +60,4 @@ Please consider citing the following paper if you make use of this work and/or t
 }
 ```
 
-[comment]: Code
-<h3> Code </h3>
-We integrated video propagation network into <a href="http://caffe.berkeleyvision.org/" style="color: #CC0000"> Caffe </a> neural network framework. Code will be made available soon.
+<p> &nbsp; </p>

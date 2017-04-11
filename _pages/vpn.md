@@ -33,10 +33,22 @@ In this paper we propose a technique that propagates information forward through
 
 [comment]: Paper
 <h3> Paper </h3>
-- arXiv Pre-print: <a href="https://arxiv.org/pdf/1612.05478.pdf" style="color: #CC0000"> PDF </a>
+- Paper: <a href="{{ site.url }}{{ site.baseurl }}/papers/jampani17_VPN.pdf" style="color: #CC0000"> PDF </a>
+- Supplementary: <a href="{{ site.url }}{{ site.baseurl }}/papers/jampani17_VPN_supp.pdf" style="color: #CC0000"> PDF </a>
 
-<!-- - Supplementary: <a href="https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/264/0766-supp_cameraready.pdf" style="color: #CC0000"> PDF </a>
-- Poster: <a href="https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/279/cvpr_poster.pdf" style="color: #CC0000"> PDF </a> -->
+<!-- - Poster: <a href="https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/279/cvpr_poster.pdf" style="color: #CC0000"> PDF </a> -->
+
+Please consider citing if you make use of this work and/or the corresponding code:
+
+```
+@inproceedings{jampani:vpn:2017,
+	title = {Video Propagation Networks},
+	author = {Jampani, Varun and Gadde, Raghudeep and Gehler, Peter V.},
+	booktitle = { IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},
+	month = july,
+	year = {2017}
+}
+```
 
 [comment]: Code
 <h3> Code </h3>
@@ -45,19 +57,38 @@ We integrated video propagation network into <a href="http://caffe.berkeleyvisio
 
 <h3> Usage </h3>
 
-The video propagation networks are generic and can be used for propagating any type of information across video frames. They are end-to-end trainable and can be combined with any existing deep network. The main use of VPNs in comparison to standard spatio-temporal CNNs is that VPNs can enable long-range pixel/superpixel connections while being computationally fast. In this paper, we experimented with label propagation (foreground or semantic labels) and colour propagation. See experiments in the paper and the corresponding code.
+The video propagation networks are generic and can be used for propagating any type of information across video frames. They are end-to-end trainable and can be combined with any existing deep network. The main use of VPNs in comparison to standard spatio-temporal CNNs is that VPNs can enable long-range pixel/superpixel connections while being computationally fast. In this paper, we experimented with label propagation (foreground or semantic labels) and colour propagation. See experiments in the paper and the corresponding codes.
 
-<h3> Citation </h3>
-Please consider citing the following paper if you make use of this work and/or the corresponding code:
+An example color propagation:
 
-```
-@inproceedings{jampani:cvpr:2017,
-	title = {Video Propagation Networks},
-	author = {Jampani, Varun and Gadde, Raghudeep and Gehler, Peter V.},
-	booktitle = { IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},
-	month = july,
-	year = {2017}
-}
-```
+<center>
+<figure>
+		<div id="projectid">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/color_propagation.png" width="800px" />
+		<p> &nbsp; </p>
+		</div>
+    <figcaption>
+		<b>
+			Input grayscale video frames and corresponding ground-truth (GT) color images together with color predictions of Levin et al. (2004) and VPN-Stage1 models.
+		</b>
+    </figcaption>
+</figure>
+</center>
+
+A couple of examples for object mask propagation:
+
+<center>
+<figure>
+		<div id="projectid">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/video_seg_visuals.png" width="800px" />
+		<p> &nbsp; </p>
+		</div>
+    <figcaption>
+		<b>
+			Shown are the different frames in example videos with the corresponding ground truth (GT) masks, predictions from BVS [M&auml;rki et al. 2016], OFL [Tsai et al. 2016], VPN (VPN- Stage2) and VPN-DLab (VPN-DeepLab) models.
+		</b>
+    </figcaption>
+</figure>
+</center>
 
 <p> &nbsp; </p>

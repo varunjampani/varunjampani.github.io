@@ -17,13 +17,19 @@
   description: A fast, generic and end-to-end trainable approach for propagating information across video frames.
   authors: V. Jampani, R. Gadde and P. V. Gehler
   venue: Computer Vision and Pattern Recognition, CVPR'17
-  number_link: 2
+  number_link: 4
   link1:
-    url: https://arxiv.org/abs/1612.05478
-    display: arXiv pre-print
+    url: https://varunjampani.github.io/papers/jampani17_VPN.pdf
+    display: pdf
   link2:
-    url:
-    display: code coming soon
+    url: https://varunjampani.github.io/papers/jampani17_VPN_supp.pdf
+    display: supplementary
+  link3:
+    url: http://varunjampani.github.io/vpn
+    display: project page
+  link4:
+    url: http://varunjampani.github.io/
+    display: code (coming soon)
 
 
 - title: Superpixel Convolutional Networks using Bilateral Inceptions
@@ -40,7 +46,7 @@
     display: supplementary
   link3:
     url: http://segmentation.is.tuebingen.mpg.de
-    display: project Page
+    display: project page
   link4:
     url: https://github.com/raghudeep/bilateralinceptions
     display: code (github)
@@ -63,7 +69,7 @@
     display: supplementary
   link3:
     url: http://bilateralnn.is.tuebingen.mpg.de
-    display: project Page
+    display: project page
   link4:
     url: https://github.com/MPI-IS/bilateralNN
     display: code (github)
@@ -86,7 +92,7 @@
     display: video
   link3:
     url: https://ps.is.tuebingen.mpg.de/research_projects/semantic-optical-flow
-    display: project Page
+    display: project page
   link4:
     url: https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/281/semantic_flow_code_release.zip
     display: code (zip)

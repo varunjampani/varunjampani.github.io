@@ -28,8 +28,8 @@
     url: http://varunjampani.github.io/vpn
     display: project page
   link4:
-    url: http://varunjampani.github.io/
-    display: code (coming soon)
+    url: https://github.com/varunjampani/video_prop_networks
+    display: code (github)
 
 
 - title: Superpixel Convolutional Networks using Bilateral Inceptions

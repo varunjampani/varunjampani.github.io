@@ -52,12 +52,13 @@ Please consider citing if you make use of this work and/or the corresponding cod
 
 [comment]: Code
 <h3> Code </h3>
-We integrated video propagation network into <a href="http://caffe.berkeleyvision.org/" style="color: #CC0000"> Caffe </a> neural network framework. Code will be made available very soon.
+We integrated video propagation network into <a href="http://caffe.berkeleyvision.org/" style="color: #CC0000"> Caffe </a> neural network framework. Code is available online in ths github repository:
+<a href="https://github.com/varunjampani/video_prop_networks" style="color: #CC0000"> https://github.com/varunjampani/video_prop_networks</a>.
 
 
 <h3> Usage </h3>
 
-The video propagation networks are generic and can be used for propagating any type of information across video frames. They are end-to-end trainable and can be combined with any existing deep network. The main use of VPNs in comparison to standard spatio-temporal CNNs is that VPNs can enable long-range pixel/superpixel connections while being computationally fast. In this paper, we experimented with label propagation (foreground or semantic labels) and colour propagation. See experiments in the paper and the corresponding codes.
+The video propagation networks are generic and can be used for propagating any type of information across video frames. They are end-to-end trainable and can be combined with any existing deep network. The main use of VPNs in comparison to standard spatio-temporal CNNs is that VPNs can enable long-range pixel/superpixel connections while being computationally fast. In this paper, we experimented with label propagation (foreground or semantic labels) and colour propagation. See experiments in the paper and the corresponding <a href="https://github.com/varunjampani/video_prop_networks" style="color: #CC0000"> codes</a>.
 
 An example color propagation:
 

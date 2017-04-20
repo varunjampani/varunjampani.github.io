@@ -45,7 +45,7 @@ I am a reviewer for the following conferences and journals.
 
 <p>Doctor of Philosophy (<em>PhD</em>) in computer vision and machine learning</p>
 
-<p>Supervised by Dr. Peter V. Gehler, Senior Research Scientist, MPI</p>
+<p>Supervised by Prof. Peter V. Gehler, Professor, University of W&uuml;rzberg</p>
 
 <p>&nbsp;</p>
 

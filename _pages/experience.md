@@ -39,13 +39,13 @@ I am a reviewer for the following conferences and journals.
 
 <h3>Education</h3>
 
-<p><em>(Jan&rsquo;13 &ndash; till date)</em></p>
+<p><em>(Jan&rsquo;13 &ndash; Dec &rsquo;16)</em></p>
 
-<p><strong>Max-Planck Institute for Intelligent Systems</strong>, T&uuml;bingen, Germany</p>
+<p><strong>Max-Planck Institute for Intelligent Systems</strong> and <strong>University of T&uuml;bingen</strong>, T&uuml;bingen, Germany</p>
 
-<p>Doctor of Philosophy (<em>PhD</em>) in computer vision and machine learning</p>
+<p>Doctor of Philosophy (<em>PhD</em>) in computer vision and machine learning (Grade: <strong>summa cum laude</strong>)</p>
 
-<p>Supervised by Prof. Peter V. Gehler, Professor, University of W&uuml;rzberg</p>
+<p>Thesis Title: Learning Inference Models for Computer Vision</p>
 
 <p>&nbsp;</p>
 

@@ -1,3 +1,17 @@
+- title: Learning Inference Models for Computer Vision
+  image: phd_thesis_teaser.png
+  description:
+    Learning based techniques for better inference in several computer vision models ranging from inverse graphics to freely parameterized neural networks.
+  authors: V. Jampani
+  venue: PhD Thesis, MPI for Intelligent Systems and University of T&uuml;bingen, December, 2016
+  number_link: 2
+  link1:
+    url: https://varunjampani.github.io/papers/jampani16_phd_thesis.pdf
+    display: pdf
+  link2:
+    url: https://varunjampani.github.io/papers/phd_thesis_slides.pdf
+    display: slides
+
 - title: A Study of X-Ray Image Perception for Pneumoconiosis Detection
   image: ms_thesis_teaser.png
   description:

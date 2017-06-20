@@ -48,6 +48,8 @@ I am a reviewer for the following conferences and journals.
 
 <p>Thesis Title: Learning Inference Models for Computer Vision</p>
 
+<p>Advisor: Prof. Peter V. Gehler</p>
+
 <p>&nbsp;</p>
 
 <p><em>(July&rsquo;09 - Dec &rsquo;12)</em></p>
@@ -57,6 +59,8 @@ I am a reviewer for the following conferences and journals.
 <p>Master of Science (<em>MS</em>) by Research in computer sciences</p>
 
 <p>Thesis Title: A Study of X-ray Image Perception for Pneumoconiosis Diagnosis</p>
+
+<p>Advisors: Prof. Jayanthi Sivaswamy and Prof. Bipin Indurkhya</p>
 
 <p>&nbsp;</p>
 

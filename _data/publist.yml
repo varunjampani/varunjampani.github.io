@@ -1,3 +1,14 @@
+- title: Semantic Video CNNs through Representation Warping
+  image: semanticvid_iccv17_teaser.png
+  description: A fast and end-to-end trainable approach for converting image CNNs to video CNNs for semantic segmentation.
+  authors: R. Gadde, V. Jampani and P. V. Gehler
+  venue: International Conference on Computer Vision, ICCV'17
+  number_link: 1
+  link1:
+    url:
+    display: pdf (coming soon)
+
+
 - title: Video Propagation Networks
   image: vpn_teaser.png
   description: A fast, generic and end-to-end trainable approach for propagating information across video frames.

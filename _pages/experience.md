@@ -14,7 +14,7 @@ permalink: /experience
 I am a reviewer for the following conferences and journals.
 <ul>
 
-<li>Computer Vision and Pattern Recognition (<strong>CVPR</strong>) - 2017</li>
+<li>Computer Vision and Pattern Recognition (<strong>CVPR</strong>) - 2017 (<strong>Outstanding Reviewer award</strong>)</li>
 <li>Neural Information Processing Systems (<strong>NIPS</strong>) - 2015, 2017</li>
 <li>International Conference on Computer Vision (<strong>ICCV</strong>) - 2017</li>
 <li>European Conference on Computer Vision (<strong>ECCV</strong>) - 2016 (<strong>Outstanding Reviewer award</strong>)</li>
@@ -76,9 +76,16 @@ I am a reviewer for the following conferences and journals.
 
 <h3>Work Experience</h3>
 
-<h4>Research Internships</h4>
+<h4>Research</h4>
 
 <ul>
+<li><strong>Nvidia Research, Westford, USA</strong>
+
+<ul>
+	<li>Research Scientist <em>(July&rsquo;17 &ndash; Till date)</em></li>
+	<li>Learning techniques for computer vision applications.</li>
+</ul>
+</li>
 	<li><strong>Microsoft Research, Cambridge, UK</strong>
 
 	<ul>

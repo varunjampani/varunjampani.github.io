@@ -20,12 +20,12 @@
   description: A fast, generic and end-to-end trainable approach for propagating information across video frames.
   authors: V. Jampani, R. Gadde and P. V. Gehler
   venue: Computer Vision and Pattern Recognition, CVPR'17
-  number_link: 4
+  number_link: 5
   link1:
-    url: https://varunjampani.github.io/papers/jampani17_VPN.pdf
+    url: http://openaccess.thecvf.com/content_cvpr_2017/papers/Jampani_Video_Propagation_Networks_CVPR_2017_paper.pdf
     display: pdf
   link2:
-    url: https://varunjampani.github.io/papers/jampani17_VPN_supp.pdf
+    url: http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Jampani_Video_Propagation_Networks_2017_CVPR_supplemental.pdf
     display: supplementary
   link3:
     url: http://varunjampani.github.io/vpn
@@ -33,6 +33,9 @@
   link4:
     url: https://github.com/varunjampani/video_prop_networks
     display: code (github)
+  link5:
+    url: https://varunjampani.github.io/papers/jampani17_VPN_poster.pdf
+    display: poster
 
 
 - title: Efficient 2D and 3D Facade Segmentation using Auto-Context

@@ -31,6 +31,7 @@ I am a reviewer for the following conferences and journals.
 
 <h3>Talks</h3>
 <ul>
+<li><strong>Bilateral Neural Networks for Image, Video and 3D Vision</strong>, University of Massachusetts, Amherst, October, 2017.</li>
 <li><strong>Learning Bilateral Information Propagation across Pixels</strong>, Nvidia Research, Santa Clara, June, 2016.</li>
 <li><strong>Learning to Propagate Information across Pixels</strong>, Microsoft Research, Redmond, April, 2016.</li>
 <li><strong>Primed Message Passing for Layered Graphical Models</strong>, Microsoft Research, Cambridge, October, 2014.</li>

@@ -3,16 +3,22 @@
   description: A fast and end-to-end trainable approach for converting image CNNs to video CNNs for semantic segmentation.
   authors: R. Gadde, V. Jampani and P. V. Gehler
   venue: International Conference on Computer Vision, ICCV'17 (oral)
-  number_link: 3
+  number_link: 5
   link1:
     url: https://varunjampani.github.io/papers/gadde17_ICCV.pdf
     display: pdf
   link2:
     url: https://youtu.be/T6gq5wMaxAo
-    display: video
+    display: supplementary video
   link3:
-    url:
-    display: code coming soon
+    url: https://github.com/raghudeep/netwarp_public
+    display: code
+  link4:
+    url: https://www.youtube.com/watch?v=RvhXFfBeY8c
+    display: ICCV talk
+  link5:
+    url: http://segmentation.is.tuebingen.mpg.de/netwarp/poster.pdf
+    display: poster
 
 
 - title: Video Propagation Networks

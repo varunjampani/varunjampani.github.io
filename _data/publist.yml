@@ -1,3 +1,48 @@
+- title: SPLATNet&#58; Sparse Lattice Networks for Point Cloud Processing
+  image: splatnet_teaser.png
+  description: A fast and end-to-end trainable neural network that directly works on point clouds and can also do joint 2D-3D processing.
+  authors: H. Su, V. Jampani, D. Sun, S. Maji, E. Kalogerakis, M-H. Yang and J. Kautz
+  venue: Computer Vision and Pattern Recognition, CVPR'18 (oral)
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/1802.08275
+    display: arxiv pre-print
+  link2:
+    url: https://www.youtube.com/watch?v=5Lbg4l-t-DU
+    display: video
+  link3:
+    url:
+    display: code (coming soon)
+
+
+- title: Super SloMo&#58; High Quality Estimation of Multiple Intermediate Frames for Video Interpolation
+  image: slomo_teaser.jpg
+  description: Variable-length multi-frame video interpolation via self-supervised optical flow estimation and occlusion reasoning.
+  authors: H. Jiang, D. Sun, V. Jampani, M-H. Yang, E. Learned-Miller and J. Kautz
+  venue: Computer Vision and Pattern Recognition, CVPR'18 (spotlight)
+  number_link: 2
+  link1:
+    url: https://arxiv.org/abs/1712.00080
+    display: arxiv pre-print
+  link2:
+    url:
+    display: code (coming soon)
+
+
+- title: Learning Superpixels with Segmentation-Aware Affinity Loss
+  image: seal_teaser2.png
+  description: A learning technique that leverages deep networks to predict pixel affinities useful for graph-based superpixel segmentation.
+  authors: W-C. Tu, M-Y. Liu, V. Jampani, D. Sun, S-Y. Chien, M-H. Yang and J. Kautz
+  venue: Computer Vision and Pattern Recognition, CVPR'18
+  number_link: 2
+  link1:
+    url:
+    display: pdf (coming soon)
+  link2:
+    url:
+    display: code (coming soon)
+
+
 - title: Semantic Video CNNs through Representation Warping
   image: semanticvid_iccv17_teaser.png
   description: A fast and end-to-end trainable approach for converting image CNNs to video CNNs for semantic segmentation.

@@ -49,7 +49,7 @@ My work lies at the intersection of Computer Vision and Machine Learning. Specif
 
 ### Recent Publications/Reports
 
-{% for publi in site.data.publist limit:6 %}
+{% for publi in site.data.publist limit:10 %}
 
 <div class="col-sm-11 clearfix">
  <div class="well">

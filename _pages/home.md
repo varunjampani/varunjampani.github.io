@@ -47,9 +47,9 @@ My work lies at the intersection of Computer Vision and Machine Learning. Specif
 
 <div class="col-sm-12">
 
-### Recent Publications/Reports
+### Publications
 
-{% for publi in site.data.publist limit:10 %}
+{% for publi in site.data.publist limit:100 %}
 
 <div class="col-sm-11 clearfix">
  <div class="well">

@@ -42,6 +42,15 @@
     url:
     display: code (coming soon)
 
+- title: Training Deep Networks with Synthetic Data&#58; Bridging the Reality Gap by Domain Randomization
+  image: dr_wad_teaser.png
+  description: A study exploring the use of domain randomization for real-world computer vision tasks such as object detection.
+  authors: J. Tremblay&#42;, A. Prakash&#42;, D. Acuna&#42;, M. Brophy&#42;, V. Jampani, C. Anil, T. To, E. Cameracci, S. Boochoon and S. Birchfield (&#42;equal contribution)
+  venue: Workshop on Autonomous Driving, CVPR-Workshops'18
+  number_link: 1
+  link1:
+    url: https://arxiv.org/abs/1804.06516
+    display: arxiv pre-print
 
 - title: Semantic Video CNNs through Representation Warping
   image: semanticvid_iccv17_teaser.png

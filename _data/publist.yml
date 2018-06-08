@@ -5,8 +5,8 @@
   venue: Computer Vision and Pattern Recognition, CVPR'18 (oral)
   number_link: 3
   link1:
-    url: https://arxiv.org/abs/1802.08275
-    display: arxiv pre-print
+    url: https://arxiv.org/abs/1802.08275.pdf
+    display: pdf
   link2:
     url: https://www.youtube.com/watch?v=5Lbg4l-t-DU
     display: video
@@ -22,8 +22,8 @@
   venue: Computer Vision and Pattern Recognition, CVPR'18 (spotlight)
   number_link: 2
   link1:
-    url: https://arxiv.org/abs/1712.00080
-    display: arxiv pre-print
+    url: https://arxiv.org/abs/1712.00080.pdf
+    display: pdf
   link2:
     url:
     display: code (coming soon)
@@ -36,8 +36,8 @@
   venue: Computer Vision and Pattern Recognition, CVPR'18
   number_link: 2
   link1:
-    url:
-    display: pdf (coming soon)
+    url: https://varunjampani.github.io/papers/tu18_SEAL.pdf
+    display: pdf
   link2:
     url:
     display: code (coming soon)

@@ -11,8 +11,8 @@
     url: https://www.youtube.com/watch?v=5Lbg4l-t-DU
     display: video
   link3:
-    url:
-    display: code (coming soon)
+    url: https://github.com/NVlabs/splatnet
+    display: code (github)
 
 
 - title: Super SloMo&#58; High Quality Estimation of Multiple Intermediate Frames for Video Interpolation
@@ -20,13 +20,10 @@
   description: Variable-length multi-frame video interpolation via self-supervised optical flow estimation and occlusion reasoning.
   authors: H. Jiang, D. Sun, V. Jampani, M-H. Yang, E. Learned-Miller and J. Kautz
   venue: Computer Vision and Pattern Recognition, CVPR'18 (spotlight)
-  number_link: 2
+  number_link: 1
   link1:
     url: https://arxiv.org/abs/1712.00080.pdf
     display: pdf
-  link2:
-    url:
-    display: code (coming soon)
 
 
 - title: Learning Superpixels with Segmentation-Aware Affinity Loss

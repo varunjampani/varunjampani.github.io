@@ -22,7 +22,7 @@ I am a reviewer for the following conferences and journals.
 <li>International Conference on Learning Representations (<strong>ICLR</strong>) - 2018</li>
 <li>Image and Vision Computing Journal (<strong>IMAVIS</strong>) - 2017</li>
 <li>Pattern Analysis and Machine Intelligence Journal (<strong>PAMI</strong>) - 2015, 2016, 2017, 2018</li>
-<li>Special Interest Group on Compuer Graphics and Interactive Technologies Asia (<strong>SIGGRAPH Asia</strong>) - 2017</li>
+<li>Special Interest Group on Compuer Graphics and Interactive Technologies Asia (<strong>SIGGRAPH Asia</strong>) - 2017, 2018</li>
 
 </ul>
 

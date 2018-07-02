@@ -3,14 +3,20 @@
   description: A fast and end-to-end trainable neural network that directly works on point clouds and can also do joint 2D-3D processing.
   authors: H. Su, V. Jampani, D. Sun, S. Maji, E. Kalogerakis, M-H. Yang and J. Kautz
   venue: Computer Vision and Pattern Recognition, CVPR'18 (oral, _best paper honorable mention_)
-  number_link: 3
+  number_link: 5
   link1:
     url: https://arxiv.org/abs/1802.08275.pdf
     display: pdf
   link2:
-    url: https://www.youtube.com/watch?v=5Lbg4l-t-DU
-    display: video
+    url: https://varunjampani.github.io/papers/splatnet_poster.pdf
+    display: poster
   link3:
+    url: https://youtu.be/rKL7cmJP0bg
+    display: video
+  link4:
+    url: https://youtu.be/x18WUuBNK7E?t=332
+    display: CVPR talk
+  link5:
     url: https://github.com/NVlabs/splatnet
     display: code (github)
 
@@ -20,11 +26,22 @@
   description: Variable-length multi-frame video interpolation via self-supervised optical flow estimation and occlusion reasoning.
   authors: H. Jiang, D. Sun, V. Jampani, M-H. Yang, E. Learned-Miller and J. Kautz
   venue: Computer Vision and Pattern Recognition, CVPR'18 (spotlight)
-  number_link: 1
+  number_link: 5
   link1:
-    url: https://arxiv.org/abs/1712.00080.pdf
+    url: http://openaccess.thecvf.com/content_cvpr_2018/papers/Jiang_Super_SloMo_High_CVPR_2018_paper.pdf
     display: pdf
-
+  link2:
+    url: http://openaccess.thecvf.com/content_cvpr_2018/Supplemental/0325-supp.pdf
+    display: supplementary
+  link3:
+    url: https://gizmodo.com/nvidia-is-using-ai-to-perfectly-fake-slo-mo-videos-1826923905
+    display: news
+  link4:
+    url: https://www.youtube.com/watch?v=rkSzRbM4lIM
+    display: CVPR talk
+  link5:
+    url: https://www.youtube.com/watch?v=MjViy6kyiqs
+    display: video results
 
 - title: Learning Superpixels with Segmentation-Aware Affinity Loss
   image: seal_teaser2.png

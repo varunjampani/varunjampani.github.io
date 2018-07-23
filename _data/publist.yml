@@ -48,11 +48,14 @@
   description: A learning technique that leverages deep networks to predict pixel affinities useful for graph-based superpixel segmentation.
   authors: W-C. Tu, M-Y. Liu, V. Jampani, D. Sun, S-Y. Chien, M-H. Yang and J. Kautz
   venue: Computer Vision and Pattern Recognition, CVPR'18
-  number_link: 2
+  number_link: 3
   link1:
     url: https://varunjampani.github.io/papers/tu18_SEAL.pdf
     display: pdf
   link2:
+    url: https://sites.google.com/site/wctu1009/cvpr18_superpixel
+    display: project page
+  link3:
     url:
     display: code (coming soon)
 

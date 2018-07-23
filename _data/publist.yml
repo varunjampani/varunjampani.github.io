@@ -67,7 +67,7 @@
   number_link: 1
   link1:
     url: https://arxiv.org/abs/1804.06516
-    display: arxiv pre-print
+    display: pdf
 
 - title: Semantic Video CNNs through Representation Warping
   image: semanticvid_iccv17_teaser.png

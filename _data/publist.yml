@@ -1,3 +1,22 @@
+- title: Superpixel Sampling Networks
+  image: ssn_sample.jpg
+  description: An end-to-end trainable deep superpixel algorithm that allows learning with flexible loss functions resulting in the learning of task-specific superpixels.
+  authors: V. Jampani, D. Sun, M-Y. Liu, M-H. Yang and J. Kautz
+  venue: European Conference on Computer Vision, ECCV'18
+  number_link: 4
+  link1:
+    url: https://varunjampani.github.io/papers/jampani18_SSN.pdf
+    display: pdf
+  link2:
+    url: https://varunjampani.github.io/papers/jampani18_SSN_supp.pdf
+    display: supplementary
+  link3:
+    url: http://varunjampani.github.io/ssn
+    display: project page
+  link4:
+    url:
+    display: code (coming soon)
+
 - title: SPLATNet&#58; Sparse Lattice Networks for Point Cloud Processing
   image: splatnet_teaser.png
   description: A fast and end-to-end trainable neural network that directly works on point clouds and can also do joint 2D-3D processing.

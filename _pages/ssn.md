@@ -43,10 +43,9 @@ Superpixels provide an efficient low/mid-level representation of image data, whi
 
 [comment]: Paper
 <h3> Paper </h3>
-Coming soon
 
-<!-- - Paper: <a href="{{ site.url }}{{ site.baseurl }}/papers/jampani17_VPN.pdf" style="color: #CC0000"> PDF </a>
-- Supplementary: <a href="{{ site.url }}{{ site.baseurl }}/papers/jampani17_VPN_supp.pdf" style="color: #CC0000"> PDF </a> -->
+- Paper: <a href="{{ site.url }}{{ site.baseurl }}/papers/jampani18_SSN.pdf" style="color: #CC0000"> PDF </a>
+- Supplementary: <a href="{{ site.url }}{{ site.baseurl }}/papers/jampani18_SSN_supp.pdf" style="color: #CC0000"> PDF </a>
 
 <!-- - Poster: <a href="https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/279/cvpr_poster.pdf" style="color: #CC0000"> PDF </a> -->
 

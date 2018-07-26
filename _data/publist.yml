@@ -20,6 +20,19 @@
     url:
     display: code (coming soon)
 
+- title: Switchable Temporal Propagation Network
+  image: stpn_teaser.png
+  description:  A generic fast deep learning framework for propagating a variety of visual properties (such as color, HDR, segmentation) across video frames.
+  authors: S. Liu, G. Zhong, S. D. Mello, J. Gu, V. Jampani, M-H. Yang and J. Kautz
+  venue: European Conference on Computer Vision, ECCV'18
+  number_link: 2
+  link1:
+    url: https://arxiv.org/pdf/1804.08758.pdf
+    display: pdf
+  link2:
+    url:
+    display: code (coming soon)
+
 - title: SPLATNet&#58; Sparse Lattice Networks for Point Cloud Processing
   image: splatnet_teaser.png
   description: A fast and end-to-end trainable neural network that directly works on point clouds and can also do joint 2D-3D processing.

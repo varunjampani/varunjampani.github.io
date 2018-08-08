@@ -17,6 +17,8 @@ I did my bachelors and masters in Computer Science at [IIIT-Hyderabad](https://w
 
 My work lies at the intersection of Computer Vision and Machine Learning. Specifically, I am working on leveraging machine learning techniques for better inference in computer vision models. The main research question is how to make use of learning techniques such as deep neural networks and random forests for inference in structured prediction frameworks.
 
+**_I am looking for motivated PhD students for collaborations and internships. If interested, please drop me an email with your CV._**
+
 ### News
 {% for article in site.data.news limit:8 %}
 {{ article.date }} :
@@ -34,7 +36,7 @@ My work lies at the intersection of Computer Vision and Machine Learning. Specif
 
   <!-- <br clear="all" /> -->
 
-  <i>(firstname)(lastname)@gmail.com</i><br>
+  <A HREF="mailto:&#118;&#097;&#114;&#117;&#110;&#106;&#097;&#109;&#112;&#097;&#110;&#105;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#118;&#097;&#114;&#117;&#110;&#106;&#097;&#109;&#112;&#097;&#110;&#105;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</A> <br>
   Nvidia Research <br>
   2 Technology Park Drive<br>
   01886, Westford, USA.<br>

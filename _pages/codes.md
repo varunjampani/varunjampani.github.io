@@ -8,10 +8,11 @@ permalink: /codes
 
 ## Codes
 
-<p>The following are some public codes related to my research work:</p>
+<p>The following are some public codes related to our research work:</p>
 
 <ul>
 	<li>SPLATNet for 2D-3D semantic segmentation - [<a href="https://github.com/NVlabs/splatnet">Code</a>(github)]</li>
+	<li>Superpixels trained with segmentation aware affinity loss (SEAL) - [<a href="https://github.com/wctu/SEAL">Code</a>(github)]</li>
 	<li>Video Propagation Networks - [<a href="http://varunjampani.github.io/vpn">Project Page</a>] [<a href="https://github.com/varunjampani/video_prop_networks">Code</a>(github)]</li>
 	<li>Semantic Video CNNs through Representation Warping - [<a href="http://segmentation.is.tuebingen.mpg.de/netwarp/">Project Page</a>] [<a href="https://github.com/raghudeep/netwarp_public">Code</a>(github)]</li>
 	<li>Bilateral Inception Networks - [<a href="http://segmentation.is.tuebingen.mpg.de">Project Page</a>] [<a href="https://github.com/raghudeep/bilateralinceptions">Code</a>(github)]</li>

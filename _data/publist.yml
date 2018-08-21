@@ -91,8 +91,8 @@
     url: https://sites.google.com/site/wctu1009/cvpr18_superpixel
     display: project page
   link3:
-    url:
-    display: code (coming soon)
+    url: https://github.com/wctu/SEAL
+    display: code (github)
 
 - title: Training Deep Networks with Synthetic Data&#58; Bridging the Reality Gap by Domain Randomization
   image: dr_wad_teaser.png

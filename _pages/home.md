@@ -17,7 +17,7 @@ I did my bachelors and masters in Computer Science at [IIIT-Hyderabad](https://w
 
 My work lies at the intersection of Computer Vision and Machine Learning. Specifically, I am working on leveraging machine learning techniques for better inference in computer vision models. The main research question is how to make use of learning techniques such as deep neural networks and random forests for inference in structured prediction frameworks.
 
-**_I am looking for motivated PhD students for collaborations and internships. If interested, please drop me an email with your CV._**
+**_I am looking for motivated students for collaborations and internships. If interested, please drop me an email with your CV._**
 
 ### News
 {% for article in site.data.news limit:8 %}

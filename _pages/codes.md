@@ -11,6 +11,8 @@ permalink: /codes
 <p>The following are some public codes related to our research work:</p>
 
 <ul>
+	<li>Superpixel Sampling Networks - [<a href="https://github.com/NVlabs/ssn_superpixels">Code</a>(github)]</li>
+	<li>Superpixels with Segmentation-aware Loss - [<a href="https://github.com/wctu/SEAL">Code</a>(github)]</li>
 	<li>SPLATNet for 2D-3D semantic segmentation - [<a href="https://github.com/NVlabs/splatnet">Code</a>(github)]</li>
 	<li>Superpixels trained with segmentation aware affinity loss (SEAL) - [<a href="https://github.com/wctu/SEAL">Code</a>(github)]</li>
 	<li>Video Propagation Networks - [<a href="http://varunjampani.github.io/vpn">Project Page</a>] [<a href="https://github.com/varunjampani/video_prop_networks">Code</a>(github)]</li>

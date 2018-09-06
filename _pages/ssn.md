@@ -63,7 +63,8 @@ Please consider citing if you make use of this work and/or the corresponding cod
 
 [comment]: Code
 <h3> Code </h3>
-Coming soon.
+We integrated superpixel sampling networks into <a href="http://caffe.berkeleyvision.org/" style="color: #CC0000"> Caffe </a> neural network framework. Code is available online in ths github repository:
+<a href="https://github.com/NVlabs/ssn_superpixels" style="color: #CC0000">https://github.com/NVlabs/ssn_superpixels</a>.
 
 [comment]: Video
 <h3> Video </h3>

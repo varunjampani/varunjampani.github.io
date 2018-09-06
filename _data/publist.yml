@@ -17,8 +17,8 @@
     url: http://varunjampani.github.io/ssn
     display: project page
   link5:
-    url:
-    display: code (coming soon)
+    url: https://github.com/NVlabs/ssn_superpixels
+    display: code (github)
 
 - title: Switchable Temporal Propagation Network
   image: stpn_teaser.png

@@ -33,6 +33,16 @@
     url:
     display: code (coming soon)
 
+- title: On the Integration of Optical Flow and Action Recognition
+  image: gcpr_18_teaser.png
+  description:  An investigate study on why optical flow is helpful, what makes a flow method good for action recognition, and how we can make it better.
+  authors: L. Sevilla, Y. Liao, F. G&uuml;ney,  V. Jampani, A. Geiger and  M. J. Black
+  venue: German Conference on Pattern Recognition, GCPR'18 (oral)
+  number_link: 1
+  link1:
+    url: https://arxiv.org/pdf/1712.08416.pdf
+    display: pdf
+
 - title: SPLATNet&#58; Sparse Lattice Networks for Point Cloud Processing
   image: splatnet_teaser.png
   description: A fast and end-to-end trainable neural network that directly works on point clouds and can also do joint 2D-3D processing.

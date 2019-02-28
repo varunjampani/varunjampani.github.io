@@ -47,7 +47,7 @@
   image: splatnet_teaser.png
   description: A fast and end-to-end trainable neural network that directly works on point clouds and can also do joint 2D-3D processing.
   authors: H. Su, V. Jampani, D. Sun, S. Maji, E. Kalogerakis, M-H. Yang and J. Kautz
-  venue: Computer Vision and Pattern Recognition, CVPR'18 (oral, _best paper honorable mention_)
+  venue: Computer Vision and Pattern Recognition, CVPR'18 (oral, _best paper honorable mention_, _NVAIL Pioneering Research Award_)
   number_link: 5
   link1:
     url: https://arxiv.org/abs/1802.08275.pdf

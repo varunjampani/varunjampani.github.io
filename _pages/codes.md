@@ -11,6 +11,7 @@ permalink: /codes
 <p>The following are some public codes related to our research work:</p>
 
 <ul>
+	<li>Competitive Collaboration - [<a href="https://github.com/anuragranj/cc">Code</a>(github)]</li>
 	<li>Superpixel Sampling Networks - [<a href="https://github.com/NVlabs/ssn_superpixels">Code</a>(github)]</li>
 	<li>SPLATNet for 2D-3D semantic segmentation - [<a href="https://github.com/NVlabs/splatnet">Code</a>(github)]</li>
 	<li>Superpixels trained with segmentation aware affinity loss (SEAL) - [<a href="https://github.com/wctu/SEAL">Code</a>(github)]</li>

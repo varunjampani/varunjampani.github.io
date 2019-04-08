@@ -2,7 +2,7 @@
   image: cc_2019_teaser.png
   description: A general unsupervised deep learning framework for learning depth, optical flow, camera motion and motion segmentation from videos.
   authors: A. Ranjan, V. Jampani, L. Balles, K. Kim, D. Sun, J. Wulff and M. J. Black
-  venue: Computer Vision and Pattern Recognition,CVPR'19
+  venue: Computer Vision and Pattern Recognition, CVPR'19
   number_link: 2
   link1:
     url: https://arxiv.org/pdf/1805.09806.pdf

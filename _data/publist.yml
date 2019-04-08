@@ -1,4 +1,4 @@
-- title: Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation
+- title: Competitive Collaboration - Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation
   image: cc_2019_teaser.png
   description: A general unsupervised deep learning framework for learning depth, optical flow, camera motion and motion segmentation from videos.
   authors: A. Ranjan, V. Jampani, L. Balles, K. Kim, D. Sun, J. Wulff and M. J. Black
@@ -10,8 +10,6 @@
   link2:
     url: http://github.com/anuragranj/cc
     display: code (github)
-
-
 
 - title: Superpixel Sampling Networks
   image: ssn_sample.jpg

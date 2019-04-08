@@ -1,4 +1,17 @@
-- title: Competitive Collaboration - Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation
+- title: SCOPS&#58; Self-Supervised Co-Part Segmentation
+  image: scops_2019_teaser.png
+  description: Learning to discover semantically consistent object part segments from image collections.
+  authors: W-C. Hung, V. Jampani, S. Liu, P. Molchanov, M-H. Yang and J. Kautz
+  venue: Computer Vision and Pattern Recognition, CVPR'19
+  number_link: 2
+  link1:
+    url: 
+    display: pdf (coming soon)
+  link2:
+    url: 
+    display: code (coming soon)
+
+- title: Competitive Collaboration&#58; Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation
   image: cc_2019_teaser.png
   description: A general unsupervised deep learning framework for learning depth, optical flow, camera motion and motion segmentation from videos.
   authors: A. Ranjan, V. Jampani, L. Balles, K. Kim, D. Sun, J. Wulff and M. J. Black

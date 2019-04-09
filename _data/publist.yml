@@ -3,7 +3,7 @@
   description: Generalization of spatially-invariant convolutions to spatially-varying convolutions with applications in joint-image upsampling, conditional random fields and layer hot-swapping.
   authors: H. Su, V. Jampani, D. Sun, O. Gallo, E. Learned-Miller and J. Kautz
   venue: Computer Vision and Pattern Recognition, CVPR'19
-  number_link: 2
+  number_link: 3
   link1:
     url: https://varunjampani.github.io/papers/su19_PACNET.pdf
     display: pdf

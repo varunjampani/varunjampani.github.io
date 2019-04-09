@@ -1,3 +1,20 @@
+- title: Pixel-Adaptive Convolutional Neural Networks
+  image: pacnet_2019_teaser.png
+  description: Generalization of spatially-invariant convolutions to spatially-varying convolutions with applications in joint-image upsampling, conditional random fields and layer hot-swapping.
+  authors: H. Su, V. Jampani, D. Sun, O. Gallo, E. Learned-Miller and J. Kautz
+  venue: Computer Vision and Pattern Recognition, CVPR'19
+  number_link: 2
+  link1:
+    url: https://varunjampani.github.io/papers/su19_PACNET.pdf
+    display: pdf
+  link2:
+    url: https://varunjampani.github.io/papers/su19_PACNET_supp.pdf
+    display: supplementary
+  link3:
+    url: 
+    display: code (coming soon)
+
+
 - title: SCOPS&#58; Self-Supervised Co-Part Segmentation
   image: scops_2019_teaser.png
   description: Learning to discover semantically consistent object part segments from image collections.

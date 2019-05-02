@@ -52,7 +52,7 @@ Parts provide a good intermediate representation of objects that is robust with 
 Please consider citing if you make use of this work and/or the corresponding code:
 
 ```
-@inproceedings{hung:scops:2019,
+@inproceedings{hung:CVPR:2019,
 	title = {SCOPS: Self-Supervised Co-Part Segmentation},
 	author = {Hung, Wei-Chih and Jampani, Varun and Liu, Sifei and Molchanov, Pavlo and Yang, Ming-Hsuan and Kautz, Jan},
 	booktitle = {IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},

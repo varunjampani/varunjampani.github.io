@@ -67,48 +67,7 @@ Coming soon.
 
 [comment]: Video
 <h3> Video </h3>
-<center>
+Coming soon.
+<!-- <center>
 <iframe width="900" height="500" src="https://www.youtube.com/embed/q37MxZolDck" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</center>
-
-<!-- We integrated video propagation network into <a href="http://caffe.berkeleyvision.org/" style="color: #CC0000"> Caffe </a> neural network framework. Code is available online in ths github repository:
-<a href="https://github.com/varunjampani/video_prop_networks" style="color: #CC0000"> https://github.com/varunjampani/video_prop_networks</a>. -->
-
-
-<!-- <h3> Usage </h3>
-
-The video propagation networks are generic and can be used for propagating any type of information across video frames. They are end-to-end trainable and can be combined with any existing deep network. The main use of VPNs in comparison to standard spatio-temporal CNNs is that VPNs can enable long-range pixel/superpixel connections while being computationally fast. In this paper, we experimented with label propagation (foreground or semantic labels) and colour propagation. See experiments in the paper and the corresponding <a href="https://github.com/varunjampani/video_prop_networks" style="color: #CC0000"> codes</a>.
-
-An example color propagation:
-
-<center>
-<figure>
-		<div id="projectid">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/color_propagation.png" width="800px" />
-		<p> &nbsp; </p>
-		</div>
-    <figcaption>
-		<b>
-			Input grayscale video frames and corresponding ground-truth (GT) color images together with color predictions of Levin et al. (2004) and VPN-Stage1 models.
-		</b>
-    </figcaption>
-</figure>
-</center>
-
-A couple of examples for object mask propagation:
-
-<center>
-<figure>
-		<div id="projectid">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/video_seg_visuals.png" width="800px" />
-		<p> &nbsp; </p>
-		</div>
-    <figcaption>
-		<b>
-			Shown are the different frames in example videos with the corresponding ground truth (GT) masks, predictions from BVS [M&auml;rki et al. 2016], OFL [Tsai et al. 2016], VPN (VPN- Stage2) and VPN-DLab (VPN-DeepLab) models.
-		</b>
-    </figcaption>
-</figure>
-</center>
-
-<p> &nbsp; </p> -->
+</center> -->

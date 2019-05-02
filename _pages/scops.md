@@ -1,9 +1,9 @@
 ---
-title: "Varun Jampani - VPN"
+title: "Varun Jampani - SCOPS"
 layout: gridlay
-excerpt: "Varun Jampani: VPN"
+excerpt: "Varun Jampani: SCOPS"
 sitemap: false
-permalink: /vpn/
+permalink: /scops/
 ---
 
 [comment]: Title

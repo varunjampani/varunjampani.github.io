@@ -36,7 +36,7 @@ Parts provide a good intermediate representation of objects that is robust with 
     <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/scops_results.png" width="900px" />
 		</div>
     <figcaption>
-				Sample part segmentation obtained by SCOPS on different types of image collections: (left) unaligned faces from CelebA, (middle) birds from CUB~\cite{wah2011caltech} and (right) horses from PASCAL VOC dataset images, showing that SCOPS can be robust to appearance, viewpoint and pose variations.
+				Sample part segmentation obtained by SCOPS on different types of image collections: (left) unaligned faces from CelebA, (middle) birds from CUB and (right) horses from PASCAL VOC dataset images, showing that SCOPS can be robust to appearance, viewpoint and pose variations.
     </figcaption>
 </figure>
 </center>

@@ -68,6 +68,9 @@ Coming soon.
 [comment]: Video
 <h3> Video </h3>
 Coming soon.
-<!-- <center>
+
+<!--
+<center>
 <iframe width="900" height="500" src="https://www.youtube.com/embed/q37MxZolDck" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</center> -->
+</center>
+-->

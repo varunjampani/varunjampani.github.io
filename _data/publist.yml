@@ -31,8 +31,8 @@
     url: https://varunjampani.github.io/papers/hung19_SCOPS_supp.pdf
     display: supplementary
   link3:
-    url: https://varunjampani.github.io/papers/hung19_SCOPS_supp.pdf
-    display: code
+    url: 
+    display: code (coming soon)
 
 - title: Competitive Collaboration&#58; Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation
   image: cc_2019_teaser.png

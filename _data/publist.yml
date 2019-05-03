@@ -23,11 +23,14 @@
   description: Learning to discover semantically consistent object part segments from image collections.
   authors: W-C. Hung, V. Jampani, S. Liu, P. Molchanov, M-H. Yang and J. Kautz
   venue: Computer Vision and Pattern Recognition, CVPR'19
-  number_link: 2
+  number_link: 3
   link1:
     url: https://varunjampani.github.io/papers/hung19_SCOPS.pdf
     display: pdf
   link2:
+    url: https://varunjampani.github.io/papers/hung19_SCOPS_supp.pdf
+    display: supplementary
+  link3:
     url: https://varunjampani.github.io/papers/hung19_SCOPS_supp.pdf
     display: code
 

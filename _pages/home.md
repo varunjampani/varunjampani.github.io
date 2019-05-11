@@ -20,7 +20,7 @@ My work lies at the intersection of Computer Vision and Machine Learning. Specif
 **_I am looking for motivated students for collaborations and internships. If interested, please drop me an email with your CV._**
 
 ### News
-{% for article in site.data.news limit:8 %}
+{% for article in site.data.news limit:9 %}
 {{ article.date }} :
 <em>{{ article.headline }}</em>
 {% endfor %}

@@ -50,6 +50,19 @@
     url: http://github.com/anuragranj/cc
     display: code (github)
 
+- title: DIFFER&#58; Moving Beyond 3D Reconstruction with Differntiable Feature Rendering
+  image: DIFFER_teaser.png
+  description: Single Image 3D object reconstruction along with texture, segmentation and normal prediction with differentiable feature rendering.
+  authors: Navaneet K., P. Mandikal, V. Jampani and V. Babu
+  venue: 3D-WiDGET, CVPR-Workshops'19 (Oral)
+  number_link: 2
+  link1:
+    url:
+    display: pdf (coming soon)
+  link2:
+    url:
+    display: code (coming soon)
+
 - title: Superpixel Sampling Networks
   image: ssn_sample.jpg
   description: An end-to-end trainable deep superpixel algorithm that allows learning with flexible loss functions resulting in the learning of task-specific superpixels.

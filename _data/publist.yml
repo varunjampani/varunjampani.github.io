@@ -14,8 +14,8 @@
     url: https://suhangpro.github.io/pac/
     display: project page
   link4:
-    url: 
-    display: code (coming soon)
+    url: https://github.com/NVlabs/pacnet 
+    display: code (github)
 
 
 - title: SCOPS&#58; Self-Supervised Co-Part Segmentation

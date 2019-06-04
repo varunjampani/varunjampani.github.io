@@ -19,7 +19,7 @@ permalink: /experience
 <li><strong>Gold Medal</strong> for being first in my B.Tech. (out of around 180 students) at IIIT-Hyderabad.</li>
 <li>Member of <strong>Doctoral Consortium</strong> at CVPR'16.</li>
 <li>Prestigious <strong>Pratibha Scholarship</strong> given by the state government of Andhra Pradesh, India.</li>
-<li>All India Rank of <strong>121</strong> (out of over 700 thousand students) in AIEEE'05 and State Rank of <strong>306</strong> (out of over 150 thousand students) in EAMCET'05.</li>
+<li>All India Rank of <strong>121</strong> (out of over 700K students) in AIEEE'05 and State Rank of <strong>306</strong> (out of over 150K students) in EAMCET'05.</li>
 <li>Scholarships from CBSE, national and state governments of India for my academic achievements.</li>
 <li>One of the 50 finalists from all over the India for <strong>Reliance-Stanford scholarship 2011</strong>.</li>
 <li>A member of 100-member <strong>Youth delegation to China</strong> in 2009 organized by the Ministry of Youth affairs and Sports,India.</li>

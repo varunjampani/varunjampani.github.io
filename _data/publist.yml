@@ -53,7 +53,7 @@
 - title: DIFFER&#58; Moving Beyond 3D Reconstruction with Differntiable Feature Rendering
   image: DIFFER_teaser.png
   description: Single Image 3D object reconstruction along with texture, segmentation and normal prediction with differentiable feature rendering.
-  authors: Navaneet K., P. Mandikal, V. Jampani and V. Babu
+  authors: K. L. Navaneet, P. Mandikal, V. Jampani and R. Venkatesh Babu
   venue: 3D-WiDGET, CVPR-Workshops'19 (Oral)
   number_link: 2
   link1:

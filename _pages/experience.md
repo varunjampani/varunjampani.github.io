@@ -11,8 +11,8 @@ permalink: /experience
 <p>&nbsp;</p>
 
 <h3>Reviewing</h3>
-I am a reviewer for the following conferences and journals.
-<ul>
+I usually serve as a reviewer for the following conferences and journals: CVPR, NIPS, ICCV, ECCV, ICML, PAMI, SIGGRAPH Asia, NSF review panel. I received ‘Outstanding Reviewer’ awards at CVPR'19), CVPR'18, CVPR'17 and ECCV'16
+<!-- <ul>
 
 <li>National Science Foundation Review Panel (<strong>NSF</strong>) - 2018, 2019</li>
 <li>Computer Vision and Pattern Recognition (<strong>CVPR</strong>) - 2017*, 2018*, 2019*</li>
@@ -25,9 +25,9 @@ I am a reviewer for the following conferences and journals.
 <li>Pattern Analysis and Machine Intelligence Journal (<strong>PAMI</strong>) - 2015, 2016, 2017, 2018, 2019</li>
 <li>Special Interest Group on Compuer Graphics and Interactive Technologies Asia (<strong>SIGGRAPH Asia</strong>) - 2017, 2018, 2019</li>
 
-</ul>
+</ul> -->
 
-\*<strong>Outstanding reviewer award</strong>
+<!-- \*<strong>Outstanding reviewer award</strong> -->
 
 
 <p>&nbsp;</p>

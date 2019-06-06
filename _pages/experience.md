@@ -29,7 +29,7 @@ permalink: /experience
 <p>&nbsp;</p>
 
 <h3>Reviewing</h3>
-I usually serve as a reviewer for the following conferences and journals: CVPR, NIPS, ICCV, ECCV, ICML, PAMI, SIGGRAPH Asia, NSF review panel. I received <strong>‘Outstanding Reviewer’ </strong> awards at CVPR'19, CVPR'18, CVPR'17 and ECCV'16.
+I usually serve as a reviewer for the following conferences and journals: CVPR, NIPS, ICCV, ECCV, ICML, PAMI, SIGGRAPH Asia, NSF review panel. I received <strong>Outstanding Reviewer</strong> awards at CVPR'19, CVPR'18, CVPR'17 and ECCV'16.
 
 <p>&nbsp;</p>
 

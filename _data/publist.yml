@@ -57,11 +57,11 @@
   venue: 3D-WiDGET, CVPR-Workshops'19 (Oral)
   number_link: 2
   link1:
-    url:
-    display: pdf (coming soon)
+    url: http://openaccess.thecvf.com/content_CVPRW_2019/papers/3D-WidDGET/K_L_Navaneet_DIFFER_Moving_Beyond_3D_Reconstruction_with_Differentiable_Feature_Rendering_CVPRW_2019_paper.pdf
+    display: pdf
   link2:
-    url:
-    display: code (coming soon)
+    url: https://github.com/klnavaneet/differ
+    display: code
 
 - title: Superpixel Sampling Networks
   image: ssn_sample.jpg

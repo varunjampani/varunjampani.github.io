@@ -61,7 +61,7 @@
     display: pdf
   link2:
     url: https://github.com/klnavaneet/differ
-    display: code
+    display: code (github)
 
 - title: Superpixel Sampling Networks
   image: ssn_sample.jpg

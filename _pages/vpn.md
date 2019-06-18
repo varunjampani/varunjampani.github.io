@@ -52,7 +52,7 @@ Please consider citing if you make use of this work and/or the corresponding cod
 
 [comment]: Code
 <h3> Code </h3>
-We integrated video propagation network into <a href="http://caffe.berkeleyvision.org/" style="color: #CC0000"> Caffe </a> neural network framework. Code is available online in ths github repository:
+We integrated video propagation network into <a href="http://caffe.berkeleyvision.org/" style="color: #CC0000"> Caffe </a> neural network framework. Code is available in this github repository:
 <a href="https://github.com/varunjampani/video_prop_networks" style="color: #CC0000"> https://github.com/varunjampani/video_prop_networks</a>.
 
 

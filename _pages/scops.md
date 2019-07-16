@@ -63,7 +63,7 @@ Please consider citing if you make use of this work and/or the corresponding cod
 
 [comment]: Code
 <h3> Code </h3>
-SCOPS is implemented using <a href="https://pytorch.org/" style="color: #CC0000">pytorch</a> neural network framework. Code will be available in this github repository:
+SCOPS is implemented using <a href="https://pytorch.org/" style="color: #CC0000">pytorch</a> neural network framework. Code is available in this github repository:
 <a href="https://github.com/NVlabs/SCOPS" style="color: #CC0000">https://github.com/NVlabs/SCOPS</a>.
 
 [comment]: Video

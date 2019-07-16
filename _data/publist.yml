@@ -34,8 +34,8 @@
     url: https://varunjampani.github.io/scops
     display: project page
   link4:
-    url: 
-    display: code (coming soon)
+    url: https://github.com/NVlabs/SCOPS
+    display: code (github)
 
 - title: Competitive Collaboration&#58; Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation
   image: cc_2019_teaser.png

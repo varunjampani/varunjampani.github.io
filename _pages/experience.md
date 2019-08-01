@@ -86,10 +86,17 @@ I usually serve as a reviewer for the following conferences and journals: CVPR, 
 <h4>Research</h4>
 
 <ul>
-<li><strong>Nvidia Research, Westford, USA</strong>
+<li><strong>Google Research, Cambridge, MA, USA</strong>
+<ul>
+	<li>Research Scientist <em>(July&rsquo;19 &ndash; Till date)</em></li>
+	<li>Learning techniques for computer vision applications.</li>
+</ul>
+</li>
+
+<li><strong>Nvidia Research, Westford, MA, USA</strong>
 
 <ul>
-	<li>Research Scientist <em>(July&rsquo;17 &ndash; Till date)</em></li>
+	<li>Research Scientist <em>(July&rsquo;17 &ndash; July&rsquo;19)</em></li>
 	<li>Learning techniques for computer vision applications.</li>
 </ul>
 </li>

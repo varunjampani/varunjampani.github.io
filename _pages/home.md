@@ -37,9 +37,9 @@ My work lies at the intersection of Computer Vision and Machine Learning. Specif
   <!-- <br clear="all" /> -->
 
   <A HREF="mailto:&#118;&#097;&#114;&#117;&#110;&#106;&#097;&#109;&#112;&#097;&#110;&#105;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#118;&#097;&#114;&#117;&#110;&#106;&#097;&#109;&#112;&#097;&#110;&#105;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</A> <br>
-  Nvidia Research <br>
-  2 Technology Park Drive<br>
-  01886, Westford, USA.<br>
+  Google Research <br>
+  355 Main Street<br>
+  Cambridge, MA, USA.<br>
 
 
 </div>

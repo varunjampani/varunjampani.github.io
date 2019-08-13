@@ -12,7 +12,7 @@ permalink: /
 
 <div class="col-sm-8">
 
-I am a research scientist at Nvidia Research in Westford, US. Prior to joining Nvidia, I completed my PhD at [Perceiving Systems](https://ps.is.tuebingen.mpg.de) department, Max-Planck Institute (MPI) for Intelligent Systems in T&uuml;bingen, Germany. My PhD advisor was [Prof. Peter V. Gehler](http://files.is.tue.mpg.de/pgehler//).
+I am a research scientist at Google Research in Cambridge, MA, USA. Prior to that, I was a research scientist at Nvidia Research in Westford, MA, USA. I completed my PhD at [Perceiving Systems](https://ps.is.tuebingen.mpg.de) department, Max-Planck Institute (MPI) for Intelligent Systems in T&uuml;bingen, Germany. My PhD advisor was [Prof. Peter V. Gehler](http://files.is.tue.mpg.de/pgehler//).
 I did my bachelors and masters in Computer Science at [IIIT-Hyderabad](https://www.iiit.ac.in), India.
 
 My work lies at the intersection of Computer Vision and Machine Learning. Specifically, I am working on leveraging machine learning techniques for better inference in computer vision models. The main research question is how to make use of learning techniques such as deep neural networks and random forests for inference in structured prediction frameworks.
@@ -37,9 +37,9 @@ My work lies at the intersection of Computer Vision and Machine Learning. Specif
   <!-- <br clear="all" /> -->
 
   <A HREF="mailto:&#118;&#097;&#114;&#117;&#110;&#106;&#097;&#109;&#112;&#097;&#110;&#105;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#118;&#097;&#114;&#117;&#110;&#106;&#097;&#109;&#112;&#097;&#110;&#105;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</A> <br>
-  Nvidia Research <br>
-  2 Technology Park Drive<br>
-  01886, Westford, USA.<br>
+  Google Research <br>
+  355 Main Street<br>
+  Cambridge, MA, USA.<br>
 
 
 </div>

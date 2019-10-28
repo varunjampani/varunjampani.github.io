@@ -12,7 +12,7 @@
     display: code (coming soon)
 
 
-- title:  SENSE: A Shared Encoder Network for Scene Flow Estimation
+- title:  SENSE&#58; A Shared Encoder Network for Scene Flow Estimation
   image: sense_teaser.png
   description: A compact shared-encoder network for depth and optical flow estimation from a stereo video. We also propose self-supervised loss functions to make use of partially labeled data.
   authors: H. Jiang, D. Sun, V. Jampani, Z. Lv, E. Learned-Miller and J. Kautz
@@ -26,7 +26,7 @@
     display: code (coming soon)
 
 
-- title:  Gated-SCNN: Gated Shape CNNs for Semantic Segmentation
+- title:  Gated-SCNN&#58; Gated Shape CNNs for Semantic Segmentation
   image: gscnn_teaser.png
   description: State-of-the-art semantic segmentation with two-stream CNN architecture that explicitly wires shape information as separate processing branch.
   authors: T. Takikawa&#42;, D. Akuna&#42;, V. Jampani and S. Fidler (&#42;equal contribution)

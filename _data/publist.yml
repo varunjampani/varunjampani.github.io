@@ -7,7 +7,7 @@
   link1:
     url: https://arxiv.org/pdf/1909.11237.pdf
     display: pdf
-  link4:
+  link2:
     url:
     display: code (coming soon)
 
@@ -21,7 +21,7 @@
   link1:
     url:
     display: pdf (coming soon)
-  link4:
+  link2:
     url: https://github.com/NVlabs/SENSE
     display: code (coming soon)
 

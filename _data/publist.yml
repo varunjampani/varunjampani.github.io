@@ -1,3 +1,51 @@
+- title:  Learning Propagation for Arbitrarily-structured Data
+  image: sgpn_teaser.png
+  description: A generalized spatial propagation network module that learns to propagate information across arbitrarily-structured data such as superpixels and point clouds.
+  authors: S. Liu, X. Li, V. Jampani, S. D. Mello and J. Kautz
+  venue: Internationl Conference on Computer Vision, ICCV'19
+  number_link: 2
+  link1:
+    url: https://arxiv.org/pdf/1909.11237.pdf
+    display: pdf
+  link4:
+    url:
+    display: code (coming soon)
+
+
+- title:  SENSE: A Shared Encoder Network for Scene Flow Estimation
+  image: sense_teaser.png
+  description: A compact shared-encoder network for depth and optical flow estimation from a stereo video. We also propose self-supervised loss functions to make use of partially labeled data.
+  authors: H. Jiang, D. Sun, V. Jampani, Z. Lv, E. Learned-Miller and J. Kautz
+  venue: Internationl Conference on Computer Vision, ICCV'19 (oral)
+  number_link: 2
+  link1:
+    url:
+    display: pdf (coming soon)
+  link4:
+    url: https://github.com/NVlabs/SENSE
+    display: code (coming soon)
+
+
+- title:  Gated-SCNN: Gated Shape CNNs for Semantic Segmentation
+  image: gscnn_teaser.png
+  description: State-of-the-art semantic segmentation with two-stream CNN architecture that explicitly wires shape information as separate processing branch.
+  authors: T. Takikawa&#42;, D. Akuna&#42;, V. Jampani and S. Fidler (&#42;equal contribution)
+  venue: International Conference on Computer Vision, ICCV'19
+  number_link: 4
+  link1:
+    url: https://arxiv.org/pdf/1907.05740.pdf
+    display: pdf
+  link2:
+    url: https://github.com/nv-tlabs/GSCNN
+    display: code (github)
+  link3:
+    url: https://nv-tlabs.github.io/GSCNN/
+    display: project page
+  link4:
+    url: https://nv-tlabs.github.io/GSCNN/resources/GSCNN.mp4
+    display: video
+
+
 - title:  Pixel-Adaptive Convolutional Neural Networks
   image: pacnet_2019_teaser.png
   description: Generalization of spatially-invariant convolutions to spatially-varying convolutions with applications in joint-image upsampling, conditional random fields and layer hot-swapping.
@@ -14,7 +62,7 @@
     url: https://suhangpro.github.io/pac/
     display: project page
   link4:
-    url: https://github.com/NVlabs/pacnet 
+    url: https://github.com/NVlabs/pacnet
     display: code (github)
 
 

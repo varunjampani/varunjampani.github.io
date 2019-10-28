@@ -51,17 +51,20 @@
   description: Generalization of spatially-invariant convolutions to spatially-varying convolutions with applications in joint-image upsampling, conditional random fields and layer hot-swapping.
   authors: H. Su, V. Jampani, D. Sun, O. Gallo, E. Learned-Miller and J. Kautz
   venue: Computer Vision and Pattern Recognition, CVPR'19
-  number_link: 4
+  number_link: 5
   link1:
     url: https://arxiv.org/pdf/1904.05373.pdf
     display: pdf
   link2:
+    url: https://varunjampani.github.io/papers/pacnet_poster.pdf
+    display: poster
+  link3:
     url: https://youtu.be/gsQZbHuR64o
     display: video
-  link3:
+  link4:
     url: https://suhangpro.github.io/pac/
     display: project page
-  link4:
+  link5:
     url: https://github.com/NVlabs/pacnet
     display: code (github)
 
@@ -71,17 +74,20 @@
   description: Learning to discover semantically consistent object part segments from image collections.
   authors: W-C. Hung, V. Jampani, S. Liu, P. Molchanov, M-H. Yang and J. Kautz
   venue: Computer Vision and Pattern Recognition, CVPR'19
-  number_link: 4
+  number_link: 5
   link1:
     url: https://arxiv.org/pdf/1905.01298.pdf
     display: pdf
   link2:
+    url: https://varunjampani.github.io/papers/scops_poster.pdf
+    display: poster
+  link3:
     url: https://youtu.be/OeBhDK8mQa8
     display: video
-  link3:
+  link4:
     url: https://varunjampani.github.io/scops
     display: project page
-  link4:
+  link5:
     url: https://github.com/NVlabs/SCOPS
     display: code (github)
 

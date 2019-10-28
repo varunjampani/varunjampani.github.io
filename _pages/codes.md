@@ -13,7 +13,7 @@ permalink: /codes
 <ul>
         <li>Pixel-Adaptive Convolutional Neural Networks - [<a href="https://github.com/NVlabs/pacnet">Code</a>(github)]</li>
 	<li>SCOPS: Self-supervised Co-part Segmentation - [<a href="https://github.com/NVlabs/SCOPS">Code</a>(github)]</li>
-  <li>Gated Shape CNNs for Semantic Segmentation - [<a href="https://github.com/nv-tlabs/GSCNN">Code</a>(github)"]</li>
+  <li>Gated Shape CNNs for Semantic Segmentation - [<a href="https://github.com/nv-tlabs/GSCNN">Code</a>(github)]</li>
 	<li>Competitive Collaboration - [<a href="https://github.com/anuragranj/cc">Code</a>(github)]</li>
 	<li>Superpixel Sampling Networks - [<a href="https://github.com/NVlabs/ssn_superpixels">Code</a>(github)]</li>
 	<li>SPLATNet for 2D-3D semantic segmentation - [<a href="https://github.com/NVlabs/splatnet">Code</a>(github)]</li>

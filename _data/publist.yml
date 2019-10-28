@@ -14,7 +14,7 @@
 
 - title:  SENSE&#58; A Shared Encoder Network for Scene Flow Estimation
   image: sense_teaser.png
-  description: A compact shared-encoder network for depth and optical flow estimation from a stereo video. We also propose self-supervised loss functions to make use of partially labeled data.
+  description: A compact shared-encoder network along with semi-supervised loss functions for depth and optical flow estimation.
   authors: H. Jiang, D. Sun, V. Jampani, Z. Lv, E. Learned-Miller and J. Kautz
   venue: Internationl Conference on Computer Vision, ICCV'19 (oral)
   number_link: 2

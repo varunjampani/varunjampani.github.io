@@ -19,8 +19,8 @@
   venue: Internationl Conference on Computer Vision, ICCV'19 (oral)
   number_link: 2
   link1:
-    url:
-    display: pdf (coming soon)
+    url: https://arxiv.org/pdf/1910.12361.pdf
+    display: pdf
   link2:
     url: https://github.com/NVlabs/SENSE
     display: code (coming soon)

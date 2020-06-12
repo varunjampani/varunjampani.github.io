@@ -1,15 +1,84 @@
+- title: Self-supervised Viewpoint Learning from Image Collections
+  image: ssv_cvpr20_teaser.png
+  description: Learning 3D object viewpoint from unannotated image collections via self-supervision.
+  authors: S. K. Mustikovela, V. Jampani, S. D. Mello, S. Liu, U. Iqbal, C. Rother and J. Kautz
+  venue: Computer Vision and Pattern Recognition, CVPR'20
+  number_link: 4
+  link1:
+    url: https://arxiv.org/pdf/2004.01793.pdf
+    display: pdf
+  link2:
+    url: https://research.nvidia.com/sites/default/files/pubs/2020-03_Self-Supervised-Viewpoint-Learning/00322_video.mp4
+    display: video
+  link3:
+    url: https://research.nvidia.com/publication/2020-03_Self-Supervised-Viewpoint-Learning
+    display: project page
+  link4:
+    url: https://github.com/NVlabs/SSV
+    display: code (github)
+
+
+
+
+- title:  Two-shot Spatially-varying BRDF and Shape Estimation
+  image: two_shot_brdf_teaser.png
+  description: Practical SVBRDF and shape estimation with two-shot mobile capture.
+  authors: M. Boss, V. Jampani, K. Kim, H. Lensch and J. Kautz
+  venue: Computer Vision and Pattern Recognition, CVPR'20
+  number_link: 4
+  link1:
+    url: https://arxiv.org/pdf/2004.00403.pdf
+    display: pdf
+  link2:
+    url: https://www.youtube.com/watch?v=Bvjoolt2-iY
+    display: video
+  link3:
+    url: https://markboss.me/publication/cvpr20-two-shot-brdf/
+    display: project page
+  link4:
+    url:
+    display: code (coming soon)
+
+
+- title:  Self-Supervised 3D Human Pose Estimation via Part-Guided Novel Image Synthesis
+  image: poseseg_cvpr20_teaser.png
+  description: 3D human pose estimation technique that is self-supervised using image pairs from in-the-wild videos.
+  authors: J. N. Kundu, S. Seth, V. Jampani, R. Mugalodi, R. Venkatesh Babu and A. Chakraborty
+  venue: Computer Vision and Pattern Recognition, CVPR'20
+  number_link: 2
+  link1:
+    url: https://arxiv.org/pdf/2004.04400.pdf
+    display: pdf
+  link2:
+    url:
+    display: code (coming soon)
+
+
+
+- title: From Image Collections to Point Clouds with Self-supervised Shape and Pose Networks
+  image: pointcloud_learning_cvpr20_teaser.png
+  description: Point cloud reconstruction network trained with self-supervision using image collections.
+  authors: K. L. Navaneet, A. Mathew, S. Kashyap, W-C. Hung, V. Jampani and R. Venkatesh Babu
+  venue: Computer Vision and Pattern Recognition, CVPR'20
+  number_link: 2
+  link1:
+    url: https://arxiv.org/pdf/2005.01939.pdf
+    display: pdf
+  link2:
+    url: https://github.com/val-iisc/ssl_3d_recon
+    display: code (github)
+
+
+
 - title:  Learning Propagation for Arbitrarily-structured Data
   image: sgpn_teaser.png
   description: A generalized spatial propagation network module that learns to propagate information across arbitrarily-structured data such as superpixels and point clouds.
   authors: S. Liu, X. Li, V. Jampani, S. D. Mello and J. Kautz
   venue: Internationl Conference on Computer Vision, ICCV'19
-  number_link: 2
+  number_link: 1
   link1:
     url: https://arxiv.org/pdf/1909.11237.pdf
     display: pdf
-  link2:
-    url:
-    display: code (coming soon)
 
 
 - title:  SENSE&#58; A Shared Encoder Network for Scene Flow Estimation

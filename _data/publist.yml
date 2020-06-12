@@ -50,7 +50,10 @@
     url: https://arxiv.org/pdf/2004.04400.pdf
     display: pdf
   link2:
-    url:
+    url: https://youtu.be/fK0_DWpKBAU
+    display: video
+  link3:
+    url: 
     display: code (coming soon)
 
 

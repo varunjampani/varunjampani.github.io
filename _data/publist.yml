@@ -92,8 +92,8 @@
   link3:
     url: https://markboss.me/publication/cvpr20-two-shot-brdf/
     display: project page
-  link4: https://github.com/NVlabs/two-shot-brdf-shape
-    url:
+  link4: 
+    url: https://github.com/NVlabs/two-shot-brdf-shape
     display: code
 
 

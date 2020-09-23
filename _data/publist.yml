@@ -18,7 +18,7 @@
     display: code (github)
     
     
-- title: DeepGMR: Learning Latent Gaussian Mixture Models for Registration
+- title: DeepGMR&#58; Learning Latent Gaussian Mixture Models for Registration
   image: deepgmr_eccv20_teaser.png
   description: First learning-based point cloud registration method that explicitly leverages a probabilistic registration paradigm.
   authors: W. Yuan, B. Eckart, K. Kim, V. Jampani, D. Fox and J. Kautz

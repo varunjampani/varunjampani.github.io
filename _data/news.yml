@@ -1,3 +1,12 @@
+- date: August, 2020
+  headline: <a href="https://youtu.be/5kzU6NkvGX4">Talk</a> on 'Self-Supervised Part and Viewpoint discovery from Image Collections' at ECCV'20 <a href="https://nvlabs.github.io/eccv2020-limited-labels-data-tutorial/">Tutorial</a>.
+  
+- date: July, 2020
+  headline: Papers on 'Self-supervised 3D Object Reconstruction', 'Self-supervised Human Mesh Reconstruction' and 'Deep Point Cloud Registration' accepted to ECCV'20.
+  
+- date: July, 2020
+  headline: Invited <a href="https://ece.iisc.ac.in/~spcom/2020/ss_dl_cv.html#WIE1">Talk</a> on 'Content-Adaptive Convolutional Neural Networks' at <a href="https://ece.iisc.ac.in/~spcom/2020/index.html">SPCOM 2020</a>.
+
 - date: April, 2020
   headline: <a href="https://github.com/NVlabs/SSV">Code</a> for 'Self-Supervised Viewpoint Learning' is released.
 

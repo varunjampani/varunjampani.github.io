@@ -1,3 +1,23 @@
+- title: Appearance Consensus Driven Self-Supervised Human Mesh Recovery
+  image: sshmr_eccv20_teaser.png
+  description: Learning human mesh recovery from unannotated video frames and unpaired pose data.
+  authors: J. N. Kundu, M. Rakesh, V. Jampani, R. M. Venkatesh, R. V. Babu
+  venue: European Conference on Computer Vision, ECCV'20
+  number_link: 4
+  link1:
+    url: https://arxiv.org/pdf/2008.01341.pdf
+    display: pdf
+  link2:
+    url: https://www.youtube.com/watch?v=Cg91BxzM5dg
+    display: video
+  link3:
+    url: https://sites.google.com/corp/view/ss-human-mesh
+    display: project page
+  link4:
+    url: https://github.com/val-iisc/ss_human_mesh
+    display: code (github)
+    
+
 - title: Self-supervised Single-view 3D Reconstruction via Semantic Consistency
   image: umr_eccv20_teaser.png
   description: Learning 3D object reconstruction from unannotated image collections via self-supervised semantic consistency.
@@ -80,7 +100,7 @@
 - title:  Self-Supervised 3D Human Pose Estimation via Part-Guided Novel Image Synthesis
   image: poseseg_cvpr20_teaser.png
   description: 3D human pose estimation technique that is self-supervised using image pairs from in-the-wild videos.
-  authors: J. N. Kundu, S. Seth, V. Jampani, R. Mugalodi, R. Venkatesh Babu and A. Chakraborty
+  authors: J. N. Kundu, S. Seth, V. Jampani, M. Rakesh, R. Venkatesh Babu and A. Chakraborty
   venue: Computer Vision and Pattern Recognition, CVPR'20 (oral)
   number_link: 2
   link1:

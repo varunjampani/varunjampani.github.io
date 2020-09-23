@@ -53,7 +53,7 @@ permalink: /experience
 
 <h3>Education</h3>
 
-<p><em>(Jan&rsquo;13 &ndash; Dec &rsquo;16)</em></p>
+<p><em>(Jan&rsquo;13 &ndash; July &rsquo;17)</em></p>
 
 <p><strong>Max-Planck Institute for Intelligent Systems</strong> and <strong>University of T&uuml;bingen</strong>, T&uuml;bingen, Germany</p>
 

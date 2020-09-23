@@ -1,6 +1,26 @@
+- title: Self-supervised Single-view 3D Reconstruction via Semantic Consistency
+  image: umr_eccv20_teaser.png
+  description: Learning 3D object reconstruction from unannotated image collections via self-supervised semantic consistency.
+  authors: X. Li, S. Liu, K. Kim, S. D. Mello, V. Jampani, M. H. Yang and J. Kautz 
+  venue: European Conference on Computer Vision, ECCV'20
+  number_link: 4
+  link1:
+    url: https://arxiv.org/pdf/2003.06473.pdf
+    display: pdf
+  link2:
+    url: https://www.youtube.com/watch?v=vLUf-msmb3s
+    display: video
+  link3:
+    url: https://sites.google.com/corp/nvidia.com/unsup-mesh-2020
+    display: project page
+  link4:
+    url: https://github.com/NVlabs/UMR
+    display: code (github)
+    
+    
 - title: DeepGMR: Learning Latent Gaussian Mixture Models for Registration
   image: deepgmr_eccv20_teaser.png
-  description: Learning 3D object viewpoint from unannotated image collections via self-supervision.
+  description: First learning-based point cloud registration method that explicitly leverages a probabilistic registration paradigm.
   authors: W. Yuan, B. Eckart, K. Kim, V. Jampani, D. Fox and J. Kautz
   venue: European Conference on Computer Vision, ECCV'20
   number_link: 4

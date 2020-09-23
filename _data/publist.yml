@@ -94,7 +94,7 @@
     display: project page
   link4: 
     url: https://github.com/NVlabs/two-shot-brdf-shape
-    display: code
+    display: code (github)
 
 
 - title:  Self-Supervised 3D Human Pose Estimation via Part-Guided Novel Image Synthesis
@@ -109,9 +109,6 @@
   link2:
     url: https://youtu.be/fK0_DWpKBAU
     display: video
-  link3:
-    url: 
-    display: code (coming soon)
 
 
 
@@ -152,7 +149,7 @@
     display: pdf
   link2:
     url: https://github.com/NVlabs/SENSE
-    display: code
+    display: code (github)
 
 
 - title:  Gated-SCNN&#58; Gated Shape CNNs for Semantic Segmentation

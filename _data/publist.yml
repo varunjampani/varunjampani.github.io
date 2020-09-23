@@ -152,7 +152,7 @@
     display: pdf
   link2:
     url: https://github.com/NVlabs/SENSE
-    display: code (coming soon)
+    display: code
 
 
 - title:  Gated-SCNN&#58; Gated Shape CNNs for Semantic Segmentation

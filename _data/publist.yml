@@ -1,3 +1,22 @@
+- title: DeepGMR: Learning Latent Gaussian Mixture Models for Registration
+  image: deepgmr_eccv20_teaser.png
+  description: Learning 3D object viewpoint from unannotated image collections via self-supervision.
+  authors: W. Yuan, B. Eckart, K. Kim, V. Jampani, D. Fox and J. Kautz
+  venue: European Conference on Computer Vision, ECCV'20
+  number_link: 4
+  link1:
+    url: https://arxiv.org/pdf/2008.09088.pdf
+    display: pdf
+  link2:
+    url: https://www.youtube.com/watch?v=xlUywtzDjOQ&feature=emb_logo
+    display: video
+  link3:
+    url: https://wentaoyuan.github.io/deepgmr/
+    display: project page
+  link4:
+    url: https://github.com/wentaoyuan/deepgmr
+    display: code (github)
+
 - title: Self-supervised Viewpoint Learning from Image Collections
   image: ssv_cvpr20_teaser.png
   description: Learning 3D object viewpoint from unannotated image collections via self-supervision.
@@ -16,8 +35,6 @@
   link4:
     url: https://github.com/NVlabs/SSV
     display: code (github)
-
-
 
 
 - title:  Two-shot Spatially-varying BRDF and Shape Estimation

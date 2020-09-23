@@ -11,8 +11,13 @@ permalink: /codes
 <p>The following are some public codes related to our research work:</p>
 
 <ul>
+	<li>Self-supervised Single-view 3D Reconstruction via Semantic Consistency - [<a href="https://github.com/NVlabs/UMR">Code</a>(github)]</li>
+	<li>DeepGMR: Learning Latent Gaussian Mixture Models for Registration - [<a href="https://github.com/wentaoyuan/deepgmr">Code</a>(github)]</li>
+	<li>Appearance Consensus Driven Self-Supervised Human Mesh Recovery - [<a href="https://github.com/val-iisc/ss_human_mesh">Code</a>(github)]</li>
+	<li>Two-shot Spatially-varying BRDF and Shape Estimation - [<a href="https://github.com/NVlabs/two-shot-brdf-shape">Code</a>(github)]</li>
         <li>Self-supervised viewpoint learning from image collections - [<a href="https://github.com/NVlabs/SSV">Code</a>(github)]</li>
 	<li>Self-supervised point cloud reconstruction networks - [<a href="https://github.com/val-iisc/ssl_3d_recon">Code</a>(github)]</li>
+	<li>SENSE: a Shared Encoder Network for Scene-flow Estimation - [<a href="https://github.com/NVlabs/SENSE">Code</a>(github)]</li>
         <li>Pixel-Adaptive Convolutional Neural Networks - [<a href="https://github.com/NVlabs/pacnet">Code</a>(github)]</li>
 	<li>SCOPS: Self-supervised Co-part Segmentation - [<a href="https://github.com/NVlabs/SCOPS">Code</a>(github)]</li>
   <li>Gated Shape CNNs for Semantic Segmentation - [<a href="https://github.com/nv-tlabs/GSCNN">Code</a>(github)]</li>

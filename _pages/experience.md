@@ -29,15 +29,18 @@ permalink: /experience
 <p>&nbsp;</p>
 
 <h3>Program Committee</h3>
-
+<ul>
 <li><strong>Meta-Reviewer:</strong> CVPR'20, AAAI'21.</li>
 <li><strong>Reviewer:</strong> I usually serve as a reviewer for the following conferences and journals: CVPR, NIPS, ICCV, ECCV, ICML, PAMI, SIGGRAPH Asia, NSF review panel.</li>
 <li>I received <strong>Outstanding Reviewer</strong> awards at CVPR'19, CVPR'18, CVPR'17 and ECCV'16. </li>
+</ul>
 
 <p>&nbsp;</p>
 
 <h3>Talks</h3>
 <ul>
+<li><strong>Self-Supervised Part and Viewpoint discovery from Image Collections</strong>, ECCV Tutorial, August, 2020.</li>	
+<li><strong>Content-Adaptive Convolutional Neural Networks</strong>, SPCOM, IISc, Bangalore, July, 2020.</li>
 <li><strong>Sparse High-Dimensional Neural Networks</strong>, Machine Intelligence Conference, MIT, Boston, November, 2018.</li>
 <li><strong>Bilateral Neural Networks for Image, Video and 3D Vision</strong>, University of Massachusetts, Amherst, October, 2017.</li>
 <li><strong>Learning Bilateral Information Propagation across Pixels</strong>, Nvidia Research, Santa Clara, June, 2016.</li>

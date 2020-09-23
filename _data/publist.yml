@@ -92,9 +92,9 @@
   link3:
     url: https://markboss.me/publication/cvpr20-two-shot-brdf/
     display: project page
-  link4:
+  link4: https://github.com/NVlabs/two-shot-brdf-shape
     url:
-    display: code (coming soon)
+    display: code
 
 
 - title:  Self-Supervised 3D Human Pose Estimation via Part-Guided Novel Image Synthesis

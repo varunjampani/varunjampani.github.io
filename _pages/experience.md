@@ -39,6 +39,7 @@ permalink: /experience
 
 <h3>Talks</h3>
 <ul>
+<li>Guest lecture in 'Advanced Topics in Computer Vision' course, UC Merced, October, 2020.</li>
 <li><strong>Self-Supervised Part and Viewpoint discovery from Image Collections</strong>, ECCV Tutorial, August, 2020.</li>	
 <li><strong>Content-Adaptive Convolutional Neural Networks</strong>, SPCOM, IISc, Bangalore, July, 2020.</li>
 <li><strong>Sparse High-Dimensional Neural Networks</strong>, Machine Intelligence Conference, MIT, Boston, November, 2018.</li>

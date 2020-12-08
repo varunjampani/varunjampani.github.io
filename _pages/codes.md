@@ -11,7 +11,7 @@ permalink: /codes
 <p>The following are some public codes related to our research work:</p>
 
 <ul>
-	<li>Generative View Synthesis from 2D Semantics - [<a href="https://github.com/tedyhabtegebrial/gvsnet"Code</a>(github)]</li>
+	<li>Generative View Synthesis from 2D Semantics - [<a href="https://github.com/tedyhabtegebrial/gvsnet">Code</a>(github)]</li>
 	<li>Self-supervised Single-view 3D Reconstruction via Semantic Consistency - [<a href="https://github.com/NVlabs/UMR">Code</a>(github)]</li>
 	<li>DeepGMR: Learning Latent Gaussian Mixture Models for Registration - [<a href="https://github.com/wentaoyuan/deepgmr">Code</a>(github)]</li>
 	<li>Appearance Consensus Driven Self-Supervised Human Mesh Recovery - [<a href="https://github.com/val-iisc/ss_human_mesh">Code</a>(github)]</li>

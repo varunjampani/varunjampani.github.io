@@ -1,3 +1,19 @@
+- title: Generative View Synthesis: From Single-view Semantics to Novel-view Images
+  image: gvs_neurips2020_teaser.png
+  description: Learning to generate semantically consistent novel-view images from a given single 2D semantics.
+  authors: T. A. Habtegebrial, V. Jampani, O. Gallo, D. Stricker
+  venue: Neural Information Processing Systems, NeurIPS'20
+  number_link: 2
+  link1:
+    url: https://arxiv.org/pdf/2008.09106.pdf
+    display: pdf
+  link2:
+    url: https://gvsnet.github.io/
+    display: project page
+  link4:
+    url: 
+    display: code (coming soon)
+
 - title: Appearance Consensus Driven Self-Supervised Human Mesh Recovery
   image: sshmr_eccv20_teaser.png
   description: Learning human mesh recovery from unannotated video frames and unpaired pose data.

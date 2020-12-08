@@ -159,8 +159,7 @@ permalink: /experience
 	<li><strong>Medical Imaging Solutions, Hyderabad, India</strong>
 	<ul>
 		<li>Software Development Engineer <em>(Dec &rsquo;10 &ndash; March &rsquo;11)</em></li>
-		<li>Developed a DICOM communications and download monitor tool using</li>
-		<li>QT-C++</li>
+		<li>Developed a DICOM communications and download monitor tool using QT-C++</li>
 	</ul>
 	</li>
 </ul>

@@ -120,7 +120,7 @@
 - title:  Self-Supervised 3D Human Pose Estimation via Part-Guided Novel Image Synthesis
   image: poseseg_cvpr20_teaser.png
   description: 3D human pose estimation technique that is self-supervised using image pairs from in-the-wild videos.
-  authors: J. N. Kundu&#42;, S. Seth&#42;, V. Jampani, M. Rakesh, R. Venkatesh Babu and A. Chakraborty (&#42;equal contribution)
+  authors: J. N. Kundu&#42;, S. Seth&#42;, V. Jampani, M. Rakesh, R. V. Babu and A. Chakraborty (&#42;equal contribution)
   venue: Computer Vision and Pattern Recognition, CVPR'20 (oral)
   number_link: 3
   link1:
@@ -138,7 +138,7 @@
 - title: From Image Collections to Point Clouds with Self-supervised Shape and Pose Networks
   image: pointcloud_learning_cvpr20_teaser.png
   description: Point cloud reconstruction network trained with self-supervision using image collections.
-  authors: K. L. Navaneet, A. Mathew, S. Kashyap, W-C. Hung, V. Jampani and R. Venkatesh Babu
+  authors: K. L. Navaneet, A. Mathew, S. Kashyap, W-C. Hung, V. Jampani and R. V. Babu
   venue: Computer Vision and Pattern Recognition, CVPR'20
   number_link: 2
   link1:
@@ -256,7 +256,7 @@
 - title: DIFFER&#58; Moving Beyond 3D Reconstruction with Differntiable Feature Rendering
   image: DIFFER_teaser.png
   description: Single Image 3D object reconstruction along with texture, segmentation and normal prediction with differentiable feature rendering.
-  authors: K. L. Navaneet, P. Mandikal, V. Jampani and R. Venkatesh Babu
+  authors: K. L. Navaneet, P. Mandikal, V. Jampani and R. V. Babu
   venue: 3D-WiDGET, CVPR-Workshops'19 (Oral)
   number_link: 2
   link1:

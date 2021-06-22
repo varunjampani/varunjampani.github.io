@@ -1,3 +1,72 @@
+- title: Decoupled Dynamic Filter Networks
+  image: DDF_CVPR21_teaser.png
+  description: DDF is a light-weight, high-performing content-adaptive convolution layer that can readily replace standard convolution layers in CNNs.
+  authors: J. Zhou, V. Jampani, Z. Pi, Q. Liu, M-H. Yang.
+  venue: Computer Vision and Pattern Recognition, CVPR'21
+  number_link: 3
+  link1:
+    url: https://arxiv.org/pdf/2104.14107.pdf
+    display: pdf
+  link2:
+    url: https://thefoxofsky.github.io/project_pages/ddf
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=QecJD5HUF7U
+    display: video
+  link3:
+    url: https://github.com/thefoxofsky/ddfnet
+    display: code (github)
+
+- title: LASR: Learning Articulated Shape Reconstruction from a Monocular Video
+  image: lasr_cvpr21_teaser.gif
+  description: Template-free and category-agnostic articulated 3D shape reconstruction from a given monocular video.
+  authors: G. Yang, D. Sun, V. Jampani, D. Vlasic, F. Cole, H. Chang, D. Ramanan, W. T. Freeman, C. Liu
+  venue: Computer Vision and Pattern Recognition, CVPR'21
+  number_link: 3
+  link1:
+    url: https://arxiv.org/pdf/2105.02976.pdf
+    display: pdf
+  link2:
+    url: https://lasr-google.github.io/
+    display: project page
+  link3:
+    url: https://github.com/google/lasr
+    display: code (github)
+
+
+- title: AutoFlow: Learning a Better Training Set for Optical Flow
+  image: Autoflow_CVPR21_teaser.png
+  description: Jointly rendering training data while learning flow model can result in state-of-the-art pre-training and fine-tuning optical flow results.
+  authors: D. Sun, D. Vlasic, C. Hermann, V. Jampani, M. Krainin, H. Chang, R. Zabih, W. T. Freeman, C. Liu
+  venue: Computer Vision and Pattern Recognition, CVPR'21 (oral)
+  number_link: 3
+  link1:
+    url: https://arxiv.org/pdf/2104.14544.pdf
+    display: pdf
+  link2:
+    url: https://autoflow-google.github.io/
+    display: project page
+  link3:
+    url:
+    display: code (coming soon)
+
+- title: Adaptive Prototype Learning and Allocation for Few-Shot Segmentation 
+  image: ASGNet_CVPR21_teaser.png
+  description: Few-shot segmentation with superpixel guided adaptive prototype learning and allocation.
+  authors: G. Li, V. Jampani, D. Sun, L. Sevilla-Lara, J. Kim, J. Kim
+  venue: Computer Vision and Pattern Recognition, CVPR'21
+  number_link: 3
+  link1:
+    url: https://arxiv.org/pdf/2104.01893.pdf
+    display: pdf
+  link2:
+    url: https://laurasevilla.me/cvpr-21
+    display: project page
+  link3:
+    url: https://github.com/Reagan1311/ASGNet
+    display: code (github)
+    
+
 - title: Generative View Synthesis&#58; From Single-view Semantics to Novel-view Images
   image: gvs_neurips2020_teaser.png
   description: Learning to generate semantically consistent novel-view images from a given single 2D semantics.
@@ -22,7 +91,7 @@
   image: sshmr_eccv20_teaser.png
   description: Learning human mesh recovery from unannotated video frames and unpaired pose data.
   authors: J. N. Kundu&#42;, M. Rakesh&#42;, V. Jampani, R. M. Venkatesh, R. V. Babu (&#42;equal contribution)
-  venue: European Conference on Computer Vision, ECCV'20
+  venue: European Conference on Computer Vision, ECCV'20 (oral)
   number_link: 4
   link1:
     url: https://arxiv.org/pdf/2008.01341.pdf

@@ -1,6 +1,6 @@
 - title: Decoupled Dynamic Filter Networks
   image: DDF_CVPR21_teaser.png
-  description: DDF is a light-weight, high-performing content-adaptive convolution layer that can readily replace standard convolution layers in CNNs.
+  description: DDF is a lighter-weight, high-performing content-adaptive convolution layer that can readily replace standard convolution layers in CNNs.
   authors: J. Zhou, V. Jampani, Z. Pi, Q. Liu, M-H. Yang.
   venue: Computer Vision and Pattern Recognition, CVPR'21
   number_link: 4
@@ -18,7 +18,7 @@
     display: code (github)
 
 - title: LASR&#58; Learning Articulated Shape Reconstruction from a Monocular Video
-  image: lasr_cvpr21_teaser.gif
+  image: LASR_CVPR21_teaser.png
   description: Template-free and category-agnostic articulated 3D shape reconstruction from a given monocular video.
   authors: G. Yang, D. Sun, V. Jampani, D. Vlasic, F. Cole, H. Chang, D. Ramanan, W. T. Freeman, C. Liu
   venue: Computer Vision and Pattern Recognition, CVPR'21

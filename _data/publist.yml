@@ -13,7 +13,7 @@
   link3:
     url: https://www.youtube.com/watch?v=QecJD5HUF7U
     display: video
-  link3:
+  link4:
     url: https://github.com/thefoxofsky/ddfnet
     display: code (github)
 
@@ -55,7 +55,7 @@
   description: Few-shot segmentation with superpixel guided adaptive prototype learning and allocation.
   authors: G. Li, V. Jampani, D. Sun, L. Sevilla-Lara, J. Kim, J. Kim
   venue: Computer Vision and Pattern Recognition, CVPR'21
-  number_link: 3
+  number_link: 4
   link1:
     url: https://arxiv.org/pdf/2104.01893.pdf
     display: pdf
@@ -63,6 +63,9 @@
     url: https://laurasevilla.me/cvpr-21
     display: project page
   link3:
+    url: https://www.youtube.com/watch?v=6TVfnLLRSZQ
+    display: video
+  link4:
     url: https://github.com/Reagan1311/ASGNet
     display: code (github)
     

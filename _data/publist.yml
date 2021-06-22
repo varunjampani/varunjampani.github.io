@@ -35,7 +35,7 @@
 
 
 - title: AutoFlow&#58; Learning a Better Training Set for Optical Flow
-  image: Autoflow_CVPR21_teaser.png
+  image: AutoFlow_CVPR21_teaser.png
   description: Jointly rendering training data while learning flow model can result in state-of-the-art pre-training and fine-tuning optical flow results.
   authors: D. Sun, D. Vlasic, C. Hermann, V. Jampani, M. Krainin, H. Chang, R. Zabih, W. T. Freeman, C. Liu
   venue: Computer Vision and Pattern Recognition, CVPR'21 (oral)

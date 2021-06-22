@@ -53,7 +53,7 @@
 - title: Adaptive Prototype Learning and Allocation for Few-Shot Segmentation 
   image: ASGNet_CVPR21_teaser.png
   description: Few-shot segmentation with superpixel guided adaptive prototype learning and allocation.
-  authors: G. Li, V. Jampani, D. Sun, L. Sevilla-Lara, J. Kim, J. Kim
+  authors: G. Li, V. Jampani, L. Sevilla-Lara, D.Sun, J. Kim, J. Kim
   venue: Computer Vision and Pattern Recognition, CVPR'21
   number_link: 4
   link1:

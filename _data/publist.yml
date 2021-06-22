@@ -17,7 +17,7 @@
     url: https://github.com/thefoxofsky/ddfnet
     display: code (github)
 
-- title: LASR: Learning Articulated Shape Reconstruction from a Monocular Video
+- title: LASR&#58; Learning Articulated Shape Reconstruction from a Monocular Video
   image: lasr_cvpr21_teaser.gif
   description: Template-free and category-agnostic articulated 3D shape reconstruction from a given monocular video.
   authors: G. Yang, D. Sun, V. Jampani, D. Vlasic, F. Cole, H. Chang, D. Ramanan, W. T. Freeman, C. Liu
@@ -34,7 +34,7 @@
     display: code (github)
 
 
-- title: AutoFlow: Learning a Better Training Set for Optical Flow
+- title: AutoFlow&#58; Learning a Better Training Set for Optical Flow
   image: Autoflow_CVPR21_teaser.png
   description: Jointly rendering training data while learning flow model can result in state-of-the-art pre-training and fine-tuning optical flow results.
   authors: D. Sun, D. Vlasic, C. Hermann, V. Jampani, M. Krainin, H. Chang, R. Zabih, W. T. Freeman, C. Liu

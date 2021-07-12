@@ -1,3 +1,20 @@
+- title: Implicit-PDF: Non-Parametric Representation of Probability Distributions on the Rotation Manifold
+  image: IPDF_ICML21_teaser.png
+  description: A method to predict probability distributions over the rotation manifold that is particularly useful for pose estimation of symmetric objects.
+  authors: K. Murphy&#42;, C. Esteves&#42;, V. Jampani, S. Ramalingam, A. Makadia (&#42;equal contribution)
+  venue: International Conference on Machine Learning, ICML'21
+  number_link: 3
+  link1:
+    url: https://arxiv.org/pdf/2106.05965.pdf
+    display: pdf
+  link2:
+    url: https://implicit-pdf.github.io/
+    display: project page
+  link3:
+    url: https://github.com/google-research/google-research/tree/master/implicit_pdf
+    display: code (github)
+    
+
 - title: Decoupled Dynamic Filter Networks
   image: DDF_CVPR21_teaser.png
   description: DDF is a lighter-weight, high-performing content-adaptive convolution layer that can readily replace standard convolution layers in CNNs.

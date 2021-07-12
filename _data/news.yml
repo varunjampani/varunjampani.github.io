@@ -1,8 +1,8 @@
 - date: May, 2021
-  headline: Area chairing for <a href="https://www.bmvc2021.com/"> BMVC'21 </a>.
-
-- date: May, 2021
   headline: A paper on 'Implicit representation of probabilities on rotation manifold' is accepted to ICML'21.
+  
+- date: May, 2021
+  headline: Area chairing for <a href="https://www.bmvc2021.com/"> BMVC'21 </a>.
 
 - date: March, 2021 
   headline: Papers on 'Decoupled dynamic neural networks', 'Articulated shape reconstruction from videos', 'Learning training data for optical flow' and 'Adaptive prototype learning for few-shot segmentation' accepted to CVPR'21.

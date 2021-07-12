@@ -30,7 +30,7 @@ permalink: /experience
 
 <h3>Program Committee</h3>
 <ul>
-<li><strong>Meta-Reviewer:</strong> CVPR'20, AAAI'21, IJCAI'21.</li>
+<li><strong>Meta-Reviewer:</strong> CVPR'20, BMVC'21, AAAI'21, IJCAI'21.</li>
 <li><strong>Reviewer:</strong> I usually serve as a reviewer for the following conferences and journals: CVPR, NIPS, ICCV, ECCV, PAMI, SIGGRAPH Asia, NSF review panel.</li>
 <li>I received <strong>Outstanding Reviewer</strong> awards at CVPR'19, CVPR'18, CVPR'17 and ECCV'16. </li>
 </ul>

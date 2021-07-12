@@ -1,3 +1,9 @@
+- date: May, 2021
+  headline: Area chairing for <a href="https://www.bmvc2021.com/"> BMVC'21 </a>.
+
+- date: May, 2021
+  headline: A paper on 'Implicit representation of probabilities on rotation manifold' is accepted to ICML'21.
+
 - date: March, 2021 
   headline: Papers on 'Decoupled dynamic neural networks', 'Articulated shape reconstruction from videos', 'Learning training data for optical flow' and 'Adaptive prototype learning for few-shot segmentation' accepted to CVPR'21.
   
@@ -9,7 +15,10 @@
   
 - date: August, 2020
   headline: <a href="https://youtu.be/5kzU6NkvGX4">Talk</a> on 'Self-Supervised Part and Viewpoint discovery from Image Collections' at ECCV'20 <a href="https://nvlabs.github.io/eccv2020-limited-labels-data-tutorial/">Tutorial</a>.
-  
+
+- date: August, 2020
+  headline: Senior program committe member for AAAI'21 and IJCAI'21.
+
 - date: July, 2020
   headline: Papers on 'Self-supervised 3D Object Reconstruction', 'Self-supervised Human Mesh Recovery' and 'Deep Point Cloud Registration' accepted to ECCV'20.
   

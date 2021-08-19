@@ -67,7 +67,7 @@ Single image 3D photography enables viewers to view a still image from novel vie
 <iframe width="900" height="500" src="https://youtu.be/RQio7q-ueY8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>
 
-[comment]: Visual Results
+<!-- [comment]: Visual Results
 <style>
 h3 {
   font-weight: normal;
@@ -198,7 +198,7 @@ img.height {
 </div><div class=item><div class=ibox><video autoplay loop muted src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/unsplash/example_6/3dphoto.mp4"></video></div><div class=label>3D Photo</div>
 </div><img class=height src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/unsplash/example_6/input_image.jpg">
 </div>
-</div>
+</div> -->
 
 
 

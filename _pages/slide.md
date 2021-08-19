@@ -12,19 +12,32 @@ permalink: /slide/
 
 [comment]: Authors
 <p style="text-align: center;">
-<a href="https://hfslyc.github.io" style="color: #CC0000"> Wei-Chih Hung </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://varunjampani.github.io" style="color: #CC0000"> Varun Jampani </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.sifeiliu.net/" style="color: #CC0000"> Sifei Liu </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://research.nvidia.com/person/pavlo-molchanov" style="color: #CC0000"> Pavlo Molchanov </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://faculty.ucmerced.edu/mhyang/" style="color: #CC0000"> Ming-Hsuan Yang </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://jankautz.com/" style="color: #CC0000"> Jan Kautz </a>
+<a href="http://varunjampani.github.io" style="color: #CC0000"> Varun Jampani* </a>
+&nbsp;
+<a href="https://scholar.google.com/citations?user=eZQNcvcAAAAJ&hl=en" style="color: #CC0000"> Huiwen Chang* </a>
+&nbsp;
+<a href="https://www.linkedin.com/in/kyle-sargent-784006134" style="color: #CC0000"> Kyle Sargent </a>
+&nbsp;
+<a href="https://abhishekkar.info/" style="color: #CC0000"> Abhishek Kar </a>
+&nbsp;
+<a href="https://research.google/people/RichardTucker/" style="color: #CC0000"> Richard Tucker </a>
+&nbsp;
+<a href="https://research.google/people/107089/" style="color: #CC0000"> Michael Krainin </a>
+&nbsp;
+<a href="https://www.linkedin.com/in/dominikkaeser" style="color: #CC0000"> Dominik Kaeser </a>
+&nbsp;
+<a href="https://billf.mit.edu/" style="color: #CC0000"> William T. Freeman </a>
+&nbsp;
+<a href="http://salesin.cs.washington.edu/" style="color: #CC0000"> David Salesin </a>
+&nbsp;
+<a href="https://homes.cs.washington.edu/~curless/" style="color: #CC0000"> Brian Curless </a>
+&nbsp;
+<a href="https://people.csail.mit.edu/celiu/" style="color: #CC0000"> Ce Liu </a>
+&nbsp;
 </p>
 <p>&nbsp;</p>
+<p style="text-align: center;"> Google Research </p>
+<p style="text-align: center;"> ICCV 2021 (Oral) </p>
 
 [comment]: Abstract
 <h3> Abstract </h3>

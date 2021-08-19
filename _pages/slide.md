@@ -83,7 +83,7 @@ h3 {
   width: 15%;
 }
 .ibox {
-  background: #666;
+  background: #FFF;
   position: absolute;
   visibility: hidden;
   top: 30px;

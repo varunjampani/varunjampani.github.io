@@ -35,9 +35,8 @@ permalink: /slide/
 <a href="https://people.csail.mit.edu/celiu/" style="color: #CC0000"> Ce Liu </a>
 &nbsp;
 </p>
-<p>&nbsp;</p>
 <p style="text-align: center;"> Google Research </p>
-<p style="text-align: center;"> ICCV 2021 (Oral) </p>
+<p style="text-align: center;"> International Conference on Computer Vision (ICCV 2021, Oral) </p>
 
 [comment]: Abstract
 <h3> Abstract </h3>
@@ -46,11 +45,13 @@ Single image 3D photography enables viewers to view a still image from novel vie
 <center>
 <figure>
 		<div id="projectid">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/scops_results.png" width="900px" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide_teaser.png" width="900px" />
 		</div>
 		<br />
     <figcaption>
-				Sample part segmentation obtained by SCOPS on different types of image collections: (left) unaligned faces from CelebA, (middle) birds from CUB and (right) horses from PASCAL VOC dataset images, showing that SCOPS can be robust to appearance, viewpoint and pose variations.
+		Single image view synthesis with SLIDE (Ours) show better preservation of hair structures compared to that of <a href="https://shihmengli.github.io/3D-Photo-Inpainting/">3D-Photo</a>.
+    We also show the novel view (Ours-No-BG) where the background (BG) layer is greyed-out
+    to showcase our soft layering.
     </figcaption>
 </figure>
 </center>

@@ -64,7 +64,7 @@ Single image 3D photography enables viewers to view a still image from novel vie
 [comment]: Video Summary
 <h3> Video Summary </h3>
 <center>
-<iframe width="900" height="500" src="https://youtu.be/RQio7q-ueY8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="900" height="500" src="https://youtube.com/embed/RQio7q-ueY8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>
 
 <!-- [comment]: Visual Results

@@ -7,7 +7,7 @@ permalink: /slide/
 ---
 
 [comment]: Title
-<h2 align="center"> SLIDE: Single Image 3D Photography with Soft Layering and Depth-aware Inpainting </h2>
+<h2 align="center"> SLIDE: Single Image 3D Photography <br> with Soft Layering and Depth-aware Inpainting </h2>
 <p>&nbsp;</p>
 
 [comment]: Authors
@@ -23,7 +23,7 @@ permalink: /slide/
 <a href="https://research.google/people/RichardTucker/" style="color: #CC0000"> Richard Tucker </a>
 &nbsp;
 <a href="https://research.google/people/107089/" style="color: #CC0000"> Michael Krainin </a>
-&nbsp;
+<br>
 <a href="https://www.linkedin.com/in/dominikkaeser" style="color: #CC0000"> Dominik Kaeser </a>
 &nbsp;
 <a href="https://billf.mit.edu/" style="color: #CC0000"> William T. Freeman </a>

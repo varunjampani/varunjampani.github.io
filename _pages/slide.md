@@ -69,12 +69,6 @@ Single image 3D photography enables viewers to view a still image from novel vie
 
 [comment]: Visual Results
 <style>
-body {
-  font-family: sans-serif;
-  color: #fff;
-  background: #666;
-  padding: 0;
-}
 h3 {
   font-weight: normal;
 }

@@ -62,7 +62,7 @@ Single image 3D photography enables viewers to view a still image from novel vie
 - Supplementary: <a href="{{ site.url }}{{ site.baseurl }}/papers/jampani21_SLIDE_supp.pdf" style="color: #CC0000"> PDF </a>
 
 [comment]: Video Summary
-<h3> Video </h3>
+<h3> Video Summary </h3>
 <center>
 <iframe width="900" height="500" src="https://youtu.be/RQio7q-ueY8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>
@@ -202,8 +202,8 @@ img.height {
 
 
 
-Please consider citing if you make use of this work and/or the corresponding code:
-
+[comment]: Citation
+<h4> Citation </h4>
 ```
 @inproceedings{jampani:ICCV:2021,
 	title = {SLIDE: Single Image 3D Photography with Soft Layering and Depth-aware Inpainting},

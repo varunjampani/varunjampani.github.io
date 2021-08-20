@@ -130,26 +130,24 @@ img.height {
 
 <h3>RealEstate10K - Hover over the tabs to show the different results</h3>
 <div class=example>
-<div class=item><div class=ibox><img src="/images/projectpic/slide/media/RE10K/example_1/input_image.png" /></div>
-	<div class=label>Input</div>
-</div><div class=item><div class=ibox><img src="/images/projectpic/slide/media/RE10K/example_1/gt.gif" /></div><div class=label>Ground truth</div>
-</div><div class=item><div class=ibox><img src="/images/projectpic/slide/media/RE10K/example_1/slide.gif" /></div><div class=label>SLIDE(Ours)</div>
-</div><div class=item><div class=ibox><img src="/images/projectpic/slide/media/RE10K/example_1/3dphoto.gif" /></div><div class=label>3D Photo</div>
-</div><div class=item><div class=ibox><img src="/images/projectpic/slide/media/RE10K/example_1/smpi.gif" /></div><div class=label>MPI</div>
-</div><div class=item><div class=ibox><img src="/images/projectpic/slide/media/RE10K/example_1/synsin.gif" /></div><div class=label>Synsin</div>
-</div><img class=height src="/images/projectpic/slide/media/RE10K/example_1/input_image.png" />
+<div class=item><div class=ibox><img src="/images/projectpic/slide/media/RE10K/example_1/input_image.png"></div>Input</div>
+<div class=item><div class=ibox><img src="/images/projectpic/slide/media/RE10K/example_1/gt.gif"></div>Ground truth</div>
+<div class=item><div class=ibox><img src="/images/projectpic/slide/media/RE10K/example_1/slide.gif"></div>SLIDE(Ours)</div>
+<div class=item><div class=ibox><img src="/images/projectpic/slide/media/RE10K/example_1/3dphoto.gif"></div>3D Photo</div>
+<div class=item><div class=ibox><img src="/images/projectpic/slide/media/RE10K/example_1/smpi.gif">MPI</div>
+<div class=item><div class=ibox><img src="/images/projectpic/slide/media/RE10K/example_1/synsin.gif"></div>Synsin</div>
+<img class=height src="/images/projectpic/slide/media/RE10K/example_1/input_image.png" />
 </div>
 
 <h3>MannequinChallenge - Hover over the tabs to show the different results</h3>
 <div class=example>
-<div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/MC/example_1/input_image.png"></div><div class=label>Input</div>
-</div><div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/MC/example_1/gt.gif"></div><div class=label>Ground truth</div>
-</div><div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/MC/example_1/slide.gif"></div><div class=label>SLIDE(Ours)</div>
-</div><div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/MC/example_1/3dphoto.gif"></div><div class=label>3D Photo</div>
-</div><div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/MC/example_1/smpi.gif"></div><div class=label>MPI</div>
-</div><div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/MC/example_1/synsin.gif"></div><div class=label>Synsin</div>
-</div><img class=height src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/MC/example_1/input_image.png">
-</div>
+<div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/MC/example_1/input_image.png"/><div class=label>Input</div>
+</div><div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/MC/example_1/gt.gif"/><div class=label>Ground truth</div>
+</div><div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/MC/example_1/slide.gif"/><div class=label>SLIDE(Ours)</div>
+</div><div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/MC/example_1/3dphoto.gif"/><div class=label>3D Photo</div>
+</div><div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/MC/example_1/smpi.gif"/><div class=label>MPI</div>
+</div><div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/MC/example_1/synsin.gif"/><div class=label>Synsin</div>
+</div><img class=height src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/MC/example_1/input_image.png"/>
 
 <h3>Dual-pixels - Hover over the tabs to show the different results</h3>
 <div class=example>

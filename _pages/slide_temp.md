@@ -68,6 +68,7 @@ Single image 3D photography enables viewers to view a still image from novel vie
 </center>
 
 [comment]: Visual Results
+<h3> Visual Results </h3>
 {% include_relative slide_visual_results.html}
 
 

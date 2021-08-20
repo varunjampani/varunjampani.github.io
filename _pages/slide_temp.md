@@ -130,13 +130,14 @@ img.height {
 
 <h3>RealEstate10K - Hover over the tabs to show the different results</h3>
 <div class=example>
-<div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/RE10K/example_1/input_image.png"></div><div class=label>Input</div>
-</div><div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/RE10K/example_1/gt.gif"></div><div class=label>Ground truth</div>
-</div><div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/RE10K/example_1/slide.gif"></div><div class=label>SLIDE(Ours)</div>
-</div><div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/RE10K/example_1/3dphoto.gif"></div><div class=label>3D Photo</div>
-</div><div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/RE10K/example_1/smpi.gif"></div><div class=label>MPI</div>
-</div><div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/RE10K/example_1/synsin.gif"></div><div class=label>Synsin</div>
-</div><img class=height src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/RE10K/example_1/input_image.png">
+<div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/RE10K/example_1/input_image.png" /></div>
+	<div class=label>Input</div>
+</div><div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/RE10K/example_1/gt.gif" /></div><div class=label>Ground truth</div>
+</div><div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/RE10K/example_1/slide.gif" /></div><div class=label>SLIDE(Ours)</div>
+</div><div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/RE10K/example_1/3dphoto.gif" /></div><div class=label>3D Photo</div>
+</div><div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/RE10K/example_1/smpi.gif" /></div><div class=label>MPI</div>
+</div><div class=item><div class=ibox><img src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/RE10K/example_1/synsin.gif" /></div><div class=label>Synsin</div>
+</div><img class=height src="{{ site.url }}{{ site.baseurl }}/images/projectpic/slide/media/RE10K/example_1/input_image.png" />
 </div>
 
 <h3>MannequinChallenge - Hover over the tabs to show the different results</h3>

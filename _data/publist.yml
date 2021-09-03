@@ -16,7 +16,26 @@
   link4:
     url: https://varunjampani.github.io/slide_visual_results.html
     display: results
-  
+
+- title: NeRD&#58; Neural Reflectance Decomposition from Image Collections
+  image: nerd_teaser.gif
+  description: Estimating re-lightable 3D asset (shape and material properties) from the image collection of an object captured under unconstrained illumination conditions.
+  authors: M. Boss, R. Braun, V. Jampani, J. T. Barron,	C. Liu,	H. Lensch
+  venue: International Conference on Computer Vision, ICCV'21
+  number_link: 4
+  link1:
+    url: https://arxiv.org/pdf/2012.03918.pdf
+    display: pdf
+  link2:
+    url: https://markboss.me/publication/2021-nerd/
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=JL-qMTXw9VU
+    display: video
+  link4:
+    url: https://github.com/cgtuebingen/NeRD-Neural-Reflectance-Decomposition
+    display: code (soon)
+
 - title: Infinite Nature&#58; Perpetual View Generation of Natural Scenes from a Single Image
   image: infnature_teaser.gif
   description: Perpetual novel view generation corresponding to an arbitrarily long camera trajectory given a single image of a natural scene.

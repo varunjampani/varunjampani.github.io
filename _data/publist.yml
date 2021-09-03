@@ -16,8 +16,26 @@
   link4:
     url: https://varunjampani.github.io/slide_visual_results.html
     display: results
-    
-
+  
+  - title: Infinite Nature&#58; Perpetual View Generation of Natural Scenes from a Single Image
+  image: infnature_teaser.gif
+  description: Perpetual novel view generation corresponding to an arbitrarily long camera trajectory given a single image of a natural scene.
+  authors: A. Liu&#42;, R. Tucker&#42;, V. Jampani, A. Makadia,	N. Snavely,	A. Kanazawa (&#42;equal contribution)
+  venue: International Conference on Computer Vision, ICCV'21 (oral)
+  number_link: 4
+  link1:
+    url: https://arxiv.org/pdf/2012.09855.pdf
+    display: pdf
+  link2:
+    url: https://infinite-nature.github.io/
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=oXUf6anNAtc
+    display: video
+  link4:
+    url: https://github.com/google-research/google-research/tree/master/infinite_nature
+    display: code (github)
+  
 - title: Implicit-PDF&#58; Non-Parametric Representation of Probability Distributions on the Rotation Manifold
   image: IPDF_ICML21_teaser.png
   description: A method to predict probability distributions over the rotation manifold that is particularly useful for pose estimation of symmetric objects.

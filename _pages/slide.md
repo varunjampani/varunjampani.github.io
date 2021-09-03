@@ -58,7 +58,7 @@ Single image 3D photography enables viewers to view a still image from novel vie
 
 [comment]: Paper
 <h3> Paper </h3>
-- Paper: <a href="{{ site.url }}{{ site.baseurl }}/papers/jampani21_SLIDE.pdf" style="color: #CC0000"> PDF </a>
+- Paper: <a href="https://arxiv.org/abs/2109.01068" style="color: #CC0000"> arXiv </a>
 - Supplementary: <a href="{{ site.url }}{{ site.baseurl }}/papers/jampani21_SLIDE_supp.pdf" style="color: #CC0000"> PDF </a>
 
 [comment]: Video Summary
@@ -69,7 +69,7 @@ Single image 3D photography enables viewers to view a still image from novel vie
 
 [comment]: Visual Results
 <h3> Video Results </h3>
-Click <a href="https://varunjampani.github.io/slide_visual_results.html" style="color: #CC0000">here</a> for side-by-side results of different techniques.
+<h4>Click <a href="https://varunjampani.github.io/slide_visual_results.html" style="color: #CC0000">here</a> for side-by-side results of different techniques.</h4>
 
 [comment]: Citation
 <h4> Citation </h4>

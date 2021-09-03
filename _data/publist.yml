@@ -54,6 +54,25 @@
   link4:
     url: https://github.com/google-research/google-research/tree/master/infinite_nature
     display: code (github)
+    
+- title: Discoverying 3D Parts from Image Collections
+  image: 3dparts_iccv21_teaser.png
+  description: Learning 3D shape reconstuction while discovering constituent 3D parts from category-specific and posed 2D image collections.
+  authors: C-H. Yao, W-C. Hung, V. Jampani, M-H. Yang
+  venue: International Conference on Computer Vision, ICCV'21
+  number_link: 4
+  link1:
+    url: https://arxiv.org/pdf/2107.13629.pdf
+    display: pdf
+  link2:
+    url: https://chhankyao.github.io/lpd/
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=erNQANNwK6k
+    display: video
+  link4:
+    url: https://github.com/chhankyao/lpd
+    display: code (soon)
   
 - title: Implicit-PDF&#58; Non-Parametric Representation of Probability Distributions on the Rotation Manifold
   image: IPDF_ICML21_teaser.png

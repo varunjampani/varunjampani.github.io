@@ -1,3 +1,23 @@
+- title: SLIDE&#58; Single Image 3D Photography with Soft Layering and Depth-aware Inpainting
+  image: slide_teaser.gif
+  description: A fast, modular and unified network for single image 3D photography that can preserve intricate hair-like structures.
+  authors: V. Jampani&#42;, H. Chang&#42;, K. Sargent, A. Kar, R. Tucker, M. Krainin, D. Kaeser, W. T. Freeman, D. Salesin, B. Curless, C. Liu (&#42;equal contribution)
+  venue: International Conference on Computer Vision, ICCV'21 (oral)
+  number_link: 4
+  link1:
+    url: https://arxiv.org/pdf/2109.01068.pdf
+    display: pdf
+  link2:
+    url: https://varunjampani.github.io/slide/
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=RQio7q-ueY8
+    display: video
+  link4:
+    url: https://varunjampani.github.io/slide_visual_results.html
+    display: results
+    
+
 - title: Implicit-PDF&#58; Non-Parametric Representation of Probability Distributions on the Rotation Manifold
   image: IPDF_ICML21_teaser.png
   description: A method to predict probability distributions over the rotation manifold that is particularly useful for pose estimation of symmetric objects.

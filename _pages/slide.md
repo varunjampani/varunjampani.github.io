@@ -72,7 +72,7 @@ Single image 3D photography enables viewers to view a still image from novel vie
 <h4>Click <a href="https://varunjampani.github.io/slide_visual_results.html" style="color: #CC0000">here</a> for side-by-side results of different techniques.</h4>
 
 [comment]: Citation
-<h4> Citation </h4>
+<h3> Citation </h3>
 ```
 @inproceedings{jampani:ICCV:2021,
 	title = {SLIDE: Single Image 3D Photography with Soft Layering and Depth-aware Inpainting},
@@ -81,8 +81,3 @@ Single image 3D photography enables viewers to view a still image from novel vie
   year={2021}
 }
 ```
-
-<!-- [comment]: Code
-<h3> Code </h3>
-SCOPS is implemented using <a href="https://pytorch.org/" style="color: #CC0000">pytorch</a> neural network framework. Code is available in this github repository:
-<a href="https://github.com/NVlabs/SCOPS" style="color: #CC0000">https://github.com/NVlabs/SCOPS</a>. -->

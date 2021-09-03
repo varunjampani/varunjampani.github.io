@@ -17,7 +17,7 @@
     url: https://varunjampani.github.io/slide_visual_results.html
     display: results
   
-  - title: Infinite Nature&#58; Perpetual View Generation of Natural Scenes from a Single Image
+- title: Infinite Nature&#58; Perpetual View Generation of Natural Scenes from a Single Image
   image: infnature_teaser.gif
   description: Perpetual novel view generation corresponding to an arbitrarily long camera trajectory given a single image of a natural scene.
   authors: A. Liu&#42;, R. Tucker&#42;, V. Jampani, A. Makadia,	N. Snavely,	A. Kanazawa (&#42;equal contribution)

@@ -35,7 +35,7 @@ permalink: /slide/
 <a href="https://people.csail.mit.edu/celiu/" style="color: #CC0000"> Ce Liu </a>
 &nbsp;
 </p>
-<p style="text-align: center;"> Google Research </p>
+<p style="text-align: center;"> Google </p>
 <p style="text-align: center;"> International Conference on Computer Vision (ICCV 2021, Oral) </p>
 
 [comment]: Abstract

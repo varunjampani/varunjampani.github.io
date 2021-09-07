@@ -73,6 +73,22 @@
   link4:
     url: https://github.com/chhankyao/lpd
     display: code (soon)
+    
+- title: Generalize then Adapt&#58; Source-Free Domain Adaptive Semantic Segmentation 
+  image: generalize_adapt_ICCV21_teaser.png
+  description: Multi-head network with multiple augmentations for domain generalization and adaptation for semantic segmentation.
+  authors: J. N. Kundu&#42;, A. Kulkarni&#42;, A. Singh, V. Jampani, R. V. Babu (&#42;equal contribution)
+  venue: International Conference on Computer Vision, ICCV'21
+  number_link: 3
+  link1:
+    url: https://arxiv.org/pdf/2108.11249.pdf
+    display: pdf
+  link2:
+    url: https://sites.google.com/corp/view/sfdaseg
+    display: project page
+  link3:
+    url:
+    display: code (soon)
   
 - title: Implicit-PDF&#58; Non-Parametric Representation of Probability Distributions on the Rotation Manifold
   image: IPDF_ICML21_teaser.png
@@ -301,8 +317,6 @@
     url: https://drive.google.com/corp/drive/folders/11TamTxe_U5e1TFzJurM3zLXwTJ1ZtxDF
     display: code (google drive)
 
-
-
 - title: From Image Collections to Point Clouds with Self-supervised Shape and Pose Networks
   image: pointcloud_learning_cvpr20_teaser.png
   description: Point cloud reconstruction network trained with self-supervision using image collections.
@@ -316,8 +330,6 @@
     url: https://github.com/val-iisc/ssl_3d_recon
     display: code (github)
 
-
-
 - title:  Learning Propagation for Arbitrarily-structured Data
   image: sgpn_teaser.png
   description: A generalized spatial propagation network module that learns to propagate information across arbitrarily-structured data such as superpixels and point clouds.
@@ -327,7 +339,6 @@
   link1:
     url: https://arxiv.org/pdf/1909.11237.pdf
     display: pdf
-
 
 - title:  SENSE&#58; A Shared Encoder Network for Scene Flow Estimation
   image: sense_teaser.png

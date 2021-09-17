@@ -39,6 +39,7 @@ permalink: /experience
 
 <h3>Talks</h3>
 <ul>
+<li>Guest lecture in 'Advanced Topics in Computer Vision' course, UC Merced, September, 2021.</li>
 <li>Talk at <a href="https://cvit.iiit.ac.in/summerschool2021/program.php">Summer school on AI</a> at IIIT-Hyderabad.</li>
 <li>Guest lecture in 'Advanced Topics in Computer Vision' course, UC Merced, October, 2020.</li>
 <li><strong>Self-Supervised Part and Viewpoint discovery from Image Collections</strong>, ECCV Tutorial, August, 2020.</li>	

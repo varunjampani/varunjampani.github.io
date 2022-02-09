@@ -1,4 +1,4 @@
-- title: Neural-PIL: Neural Pre-Integrated Lighting for Reflectance Decomposition
+- title: Neural-PIL&#58; Neural Pre-Integrated Lighting for Reflectance Decomposition
   image: neural_pil_neurips_21.gif
   description: Neural reflectance decomposition from unconstrained image collections with a novel illumination representation and pre-integration network.
   authors: M. Rakesh&#42;, J. N. Kundu&#42;, V. Jampani, R. V. Babu (&#42;equal contribution)
@@ -17,7 +17,7 @@
     url: https://github.com/cgtuebingen/Neural-PIL
     display: code (github)
 
-- title: ViSER: Video-Specific Surface Embeddings for Articulated 3D Shape Reconstruction
+- title: ViSER&#58; Video-Specific Surface Embeddings for Articulated 3D Shape Reconstruction
   image: viser_neurips_21.gif
   description: Category-agnostic and template-free learning of articulated 3D reconstruction and dense 3D trajectories from a monocular video.
   authors: G. Yang, D. Sun, V. Jampani, D. Vlasic, F. Cole, C. Liu, D. Ramanan

@@ -1,3 +1,48 @@
+- title: Neural-PIL: Neural Pre-Integrated Lighting for Reflectance Decomposition
+  image: neural_pil_neurips_21.gif
+  description: Neural reflectance decomposition from unconstrained image collections with a novel illumination representation and pre-integration network.
+  authors: M. Rakesh&#42;, J. N. Kundu&#42;, V. Jampani, R. V. Babu (&#42;equal contribution)
+  venue: Neural Information Processing Systems, NeurIPS'21
+  number_link: 3
+  link1:
+    url: https://proceedings.neurips.cc/paper/2021/file/58ae749f25eded36f486bc85feb3f0ab-Paper.pdf
+    display: pdf
+  link2:
+    url: https://markboss.me/publication/2021-neural-pil/
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=p5cKaNwVp4M
+    display: video
+  link3:
+    url: https://github.com/cgtuebingen/Neural-PIL
+    display: code (github)
+
+- title: ViSER: Video-Specific Surface Embeddings for Articulated 3D Shape Reconstruction
+  image: viser_neurips_21.gif
+  description: Category-agnostic and template-free learning of articulated 3D reconstruction and dense 3D trajectories from a monocular video.
+  authors: G. Yang, D. Sun, V. Jampani, D. Vlasic, F. Cole, C. Liu, D. Ramanan
+  venue: Neural Information Processing Systems, NeurIPS'21
+  number_link: 3
+  link1:
+    url: https://proceedings.neurips.cc/paper/2021/file/a11f9e533f28593768ebf87075ab34f2-Paper.pdf
+    display: pdf
+  link2:
+    url: https://viser-shape.github.io/
+    display: project page
+  link3:
+    url: https://github.com/gengshan-y/viser-release
+    display: code (github)
+
+- title: Robust Visual Reasoning via Language Guided Neural Module Networks
+  image: language_adapt_neurips_21.png
+  description: A novel language-adaptive convolution layer for tackling vision-language tasks such as VQA and REF.
+  authors: A. Akula, V. Jampani, S. Changpinyo, S. C. Zhu
+  venue: Neural Information Processing Systems, NeurIPS'21
+  number_link: 1
+  link1:
+    url: https://proceedings.neurips.cc/paper/2021/file/5bd53571b97884635d13910db49626bc-Paper.pdf
+    display: pdf
+
 - title: Aligning Silhouette Topology for Self-Adaptive 3D Human Pose Recovery
   image: sil_topo_neurips_21.png
   description: 3D human pose learning from silhouette with a differentiable topological-skeleton extraction.

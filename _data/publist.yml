@@ -1,3 +1,35 @@
+- title: Aligning Silhouette Topology for Self-Adaptive 3D Human Pose Recovery
+  image: sil_topo_neurips_21.png
+  description: 3D human pose learning from silhouette with a differentiable topological-skeleton extraction.
+  authors: M. Rakesh&#42;, J. N. Kundu&#42;, V. Jampani, R. V. Babu (&#42;equal contribution)
+  venue: Neural Information Processing Systems, NeurIPS'21
+  number_link: 3
+  link1:
+    url: https://proceedings.neurips.cc/paper/2021/file/242c100dc94f871b6d7215b868a875f8-Paper.pdf
+    display: pdf
+  link2:
+    url: https://sites.google.com/corp/view/align-topo-human
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=rT1TUTGc1Ng
+    display: video
+
+- title: Non-local Latent Relation Distillation for Self-Adaptive 3D Human Pose Estimation
+  image: relation_dist_pose_neurips.png
+  description: We propose a domain adaption based technique to learn 3D pose estimation given only unpaired videos and 3D pose datasets.
+  authors: J. N. Kundu, S. Seth, A. Jamkhandi, Y. Pradyumna, V. Jampani, R. V. Babu, A. Chakraborty
+  venue: Neural Information Processing Systems, NeurIPS'21
+  number_link: 3
+  link1:
+    url: https://proceedings.neurips.cc/paper/2021/file/018b59ce1fd616d874afad0f44ba338d-Paper.pdf
+    display: pdf
+  link2:
+    url: https://sites.google.com/view/sa3dhp
+    display: project page
+  link3:
+    url: https://github.com/anirudhgj/rule_based_human_pose_estimation
+    display: code (github)
+
 - title: SLIDE&#58; Single Image 3D Photography with Soft Layering and Depth-aware Inpainting
   image: slide_teaser.gif
   description: A fast, modular and unified network for single image 3D photography that can preserve intricate hair-like structures.

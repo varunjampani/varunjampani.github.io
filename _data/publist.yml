@@ -3,7 +3,7 @@
   description: Neural reflectance decomposition from unconstrained image collections with a novel illumination representation and pre-integration network.
   authors: M. Rakesh&#42;, J. N. Kundu&#42;, V. Jampani, R. V. Babu (&#42;equal contribution)
   venue: Neural Information Processing Systems, NeurIPS'21
-  number_link: 3
+  number_link: 4
   link1:
     url: https://proceedings.neurips.cc/paper/2021/file/58ae749f25eded36f486bc85feb3f0ab-Paper.pdf
     display: pdf
@@ -13,7 +13,7 @@
   link3:
     url: https://www.youtube.com/watch?v=p5cKaNwVp4M
     display: video
-  link3:
+  link4:
     url: https://github.com/cgtuebingen/Neural-PIL
     display: code (github)
 

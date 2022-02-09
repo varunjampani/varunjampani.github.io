@@ -60,7 +60,7 @@
     display: video
 
 - title: Non-local Latent Relation Distillation for Self-Adaptive 3D Human Pose Estimation
-  image: relation_dist_pose_neurips.png
+  image: relation_dist_pose_neurips21.png
   description: We propose a domain adaption based technique to learn 3D pose estimation given only unpaired videos and 3D pose datasets.
   authors: J. N. Kundu, S. Seth, A. Jamkhandi, Y. Pradyumna, V. Jampani, R. V. Babu, A. Chakraborty
   venue: Neural Information Processing Systems, NeurIPS'21

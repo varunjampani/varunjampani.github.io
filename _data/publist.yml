@@ -45,7 +45,7 @@
 
 - title: Aligning Silhouette Topology for Self-Adaptive 3D Human Pose Recovery
   image: sil_topo_neurips_21.png
-  description: 3D human pose learning from silhouette with a differentiable topological-skeleton extraction.
+  description: 3D human pose learning with silhouette supervision using a differentiable topological-skeleton extraction.
   authors: M. Rakesh&#42;, J. N. Kundu&#42;, V. Jampani, R. V. Babu (&#42;equal contribution)
   venue: Neural Information Processing Systems, NeurIPS'21
   number_link: 3
@@ -61,7 +61,7 @@
 
 - title: Non-local Latent Relation Distillation for Self-Adaptive 3D Human Pose Estimation
   image: relation_dist_pose_neurips21.png
-  description: We propose a domain adaption based technique to learn 3D pose estimation given only unpaired videos and 3D pose datasets.
+  description: Domain adaption like technique to learn 3D pose estimation given only unpaired videos and 3D pose datasets.
   authors: J. N. Kundu, S. Seth, A. Jamkhandi, Y. Pradyumna, V. Jampani, R. V. Babu, A. Chakraborty
   venue: Neural Information Processing Systems, NeurIPS'21
   number_link: 3

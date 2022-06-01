@@ -1,7 +1,7 @@
 - title: Neural-PIL&#58; Neural Pre-Integrated Lighting for Reflectance Decomposition
   image: neural_pil_neurips_21.gif
   description: Neural reflectance decomposition from unconstrained image collections with a novel illumination representation and pre-integration network.
-  authors: M. Rakesh&#42;, J. N. Kundu&#42;, V. Jampani, R. V. Babu (&#42;equal contribution)
+  authors: M. Boss, V. Jampani, R. Braun,	C. Liu,	J. T. Barron, H. Lensch
   venue: Neural Information Processing Systems, NeurIPS'21
   number_link: 4
   link1:

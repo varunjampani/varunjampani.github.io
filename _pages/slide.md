@@ -76,7 +76,7 @@ Single image 3D photography enables viewers to view a still image from novel vie
 ```
 @inproceedings{jampani:ICCV:2021,
 	title = {SLIDE: Single Image 3D Photography with Soft Layering and Depth-aware Inpainting},
-	author = {Jampani, Varun and Chang, Huiwen and Sargent, Kyle and Kar, Abhishek and Rucker, Richard and Krainin, Michael and Kaeser, Dominik and Freeman, William T and Salesin, David and Curless, Brian and Liu, Ce},
+	author = {Jampani, Varun and Chang, Huiwen and Sargent, Kyle and Kar, Abhishek and Tucker, Richard and Krainin, Michael and Kaeser, Dominik and Freeman, William T and Salesin, David and Curless, Brian and Liu, Ce},
 	booktitle={Proceedings of the IEEE International Conference on Computer Vision},
   year={2021}
 }

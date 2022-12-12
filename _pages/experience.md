@@ -30,7 +30,7 @@ permalink: /experience
 
 <h3>Program Committee</h3>
 <ul>
-<li><strong>Meta-Reviewer:</strong> CVPR'20, BMVC'21, AAAI'21, IJCAI'21, BMVC'22, WACV'23, AAAI'23.</li>
+<li><strong>Meta-Reviewer:</strong> CVPR'20, BMVC'21, AAAI'21, IJCAI'21, BMVC'22, WACV'23, AAAI'23, CVPR'23.</li>
 <li><strong>Reviewer:</strong> I usually serve as a reviewer for the following conferences and journals: CVPR, NIPS, ICCV, ECCV, PAMI, SIGGRAPH Asia, NSF review panel.</li>
 <li>I received <strong>Outstanding Reviewer</strong> awards at CVPR'19, CVPR'18, CVPR'17 and ECCV'16. </li>
 </ul>
@@ -39,6 +39,7 @@ permalink: /experience
 
 <h3>Talks</h3>
 <ul>
+<li>Talk on 'Publishing in top vision conferences' at <a href="https://cvit.iiit.ac.in/summerschool2022/">Summer school on AI</a> at IIIT-Hyderabad, May, 2022.</li>
 <li><a href="https://www.youtube.com/watch?v=aIgC5izulkk">Talk</a> at <a href="https://cvit.iiit.ac.in/workshops/3dvision/">3D Vision Summer school</a> at IIIT-Hyderabad, May, 2022.</li>
 <li><strong>Practical 3D object understanding from image collections and videos</strong>, University of Massachusetts, Amherst, February, 2022.</li>
 <li>Guest lecture in 'Advanced Vision' course, University of Edinburgh, February, 2022.</li>

@@ -21,7 +21,7 @@ My work lies at the intersection of Computer Vision and Machine Learning. Specif
 
 **_If you are interested in research collaboration, please drop me an email with your CV._**
   
-**_We have research scientist and software engineer positions in our team in Google Research. Please drop me an email with your CV if you are interested in applying._**
+<!-- **_We have research scientist and software engineer positions in our team in Google Research. Please drop me an email with your CV if you are interested in applying._** -->
 
 ### News
 {% for article in site.data.news limit:9 %}

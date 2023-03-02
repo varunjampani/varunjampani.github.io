@@ -63,7 +63,7 @@ Refer to my <a href="https://scholar.google.com/citations?hl=en&user=1Cv6Sf4AAAA
  <div class="well">
  <pubtit>{{ publi.title }}</pubtit>
 
- <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="200px" style="float: left" />
+<!--  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="200px" style="float: left" /> -->
 
  <p>{{ publi.description }}</p>
 

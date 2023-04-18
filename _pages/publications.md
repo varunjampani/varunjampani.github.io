@@ -19,7 +19,7 @@ Refer to my <a href="https://scholar.google.com/citations?hl=en&user=1Cv6Sf4AAAA
 
 <!--  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="200px" style="float: left" /> -->
 
- <p>{{ publi.description }}</p>
+<!--  <p>{{ publi.description }}</p> -->
 
  <p><em>{{ publi.authors }}</em></p>
 

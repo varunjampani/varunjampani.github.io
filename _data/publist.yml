@@ -1,3 +1,45 @@
+- title: Learning ABCs&#58; Approximate Bijective Correspondence for Isolating Factors of Variation with Weak Supervision
+  authors: K. A. Murphy, V. Jampani, S. Ramalingam, A. Makadia
+  venue: Computer Vision and Pattern Recognition, CVPR'22 
+  number_link: 2
+  link1:
+    url: https://arxiv.org/abs/2103.03240
+    display: pdf
+  link2:
+    url: https://github.com/google-research/google-research/tree/master/isolating_factors
+    display: code (github)
+
+- title: SOMSI&#58; Spherical Novel View Synthesis with Soft Occlusion Multi-Sphere Images
+  authors: T. A. Habtegebrial, C. Gava, M. Rogge, D. Stricker, V. Jampani
+  venue: Computer Vision and Pattern Recognition, CVPR'22 
+  number_link: 4
+  link1:
+    url: https://openaccess.thecvf.com/content/CVPR2022/papers/Habtegebrial_SOMSI_Spherical_Novel_View_Synthesis_With_Soft_Occlusion_Multi-Sphere_Images_CVPR_2022_paper.pdf
+    display: pdf
+  link2:
+    url: https://sites.google.com/corp/view/mrp-net
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=TOL1qbCDO3g
+    display: video
+  link4:
+    url: https://github.com/tedyhabtegebrial/SoftOcclusionMSI
+    display: code (github)
+
+- title: Uncertainty-Aware Adaptation for Self-Supervised 3D Human Pose Estimation
+  authors: J. N. Kundu, S. Seth&#42;, Y. Pradyumna&#42;, V. Jampani, A. Chakraborty, R. V. Babu (&#42;equal contribution) 
+  venue: Computer Vision and Pattern Recognition, CVPR'22
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2203.15293
+    display: pdf
+  link2:
+    url: https://sites.google.com/corp/view/mrp-net
+    display: project page
+  link3:
+    url: https://drive.google.com/drive/folders/1BaUjMMvXEpbBoq-S-tk6-_q4fSPm26lP?usp=sharing
+    display: code (gridve)
+
 - title: VIDT&#58; An efficient and effective fully transformer-based object detector
   authors: H. Song, D. Sun, S. Chun, V. Jampani, D. Han, B. Heo, W. Kim, M. H. Yang
   venue: International Conference on Learning Representations, ICLR'22

@@ -23,7 +23,7 @@
     url: https://www.google.com/url?q=https%3A%2F%2Faaai-2022.virtualchair.net%2Fposter_aaai8406&sa=D&sntz=1&usg=AOvVaw02npMx9fKy4uWFKXRD7ZDN
     display: video
 
-- title: LEAD: Self-supervised landmark estimation by aligning distributions of feature similarity
+- title: LEAD&#58; Self-supervised landmark estimation by aligning distributions of feature similarity
   authors: T. Karmali&#42;, A. Atrishi&#42;, S. Harsha, S. Agrawal, V. Jampani, R. V. Babu (&#42;equal contribution)  
   venue: Winter Conference on Application of Computer Vision, WACV'22
   number_link: 4

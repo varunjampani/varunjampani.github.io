@@ -1,3 +1,45 @@
+- title: VIDT: An efficient and effective fully transformer-based object detector
+  authors: H. Song, D. Sun, S. Chun, V. Jampani, D. Han, B. Heo, W. Kim, M. H. Yang
+  venue: International Conference on Learning Representations, ICLR'22
+  number_link: 2
+  link1:
+    url: https://arxiv.org/abs/2110.03921
+    display: pdf
+  link2:
+    url: https://github.com/naver-ai/vidt
+    display: code (github)
+
+- title: Amplitude Spectrum Transformation for Open Compound Domain Adaptive Semantic Segmentation
+  authors: J. N. Kundu&#42;, A. Kulkarni&#42;, S. Bhambri*, V. Jampani, R. V. Babu (&#42;equal contribution)
+  venue: Association for the Advancement of Artificial Intelligence, AAAI'22
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2202.04287
+    display: pdf
+  link2:
+    url: https://sites.google.com/corp/view/ast-ocdaseg
+    display: project page
+  link3:
+    url: https://www.google.com/url?q=https%3A%2F%2Faaai-2022.virtualchair.net%2Fposter_aaai8406&sa=D&sntz=1&usg=AOvVaw02npMx9fKy4uWFKXRD7ZDN
+    display: video
+
+- title: LEAD: Self-supervised landmark estimation by aligning distributions of feature similarity
+  authors: T. Karmali&#42;, A. Atrishi&#42;, S. Harsha, S. Agrawal, V. Jampani, R. V. Babu (&#42;equal contribution)  
+  venue: Winter Conference on Application of Computer Vision, WACV'22
+  number_link: 4
+  link1: 
+    url: https://arxiv.org/abs/2204.02958
+    display: pdf
+  link2: 
+    url: https://sites.google.com/corp/view/lead-wacv22
+    display: project page
+  link3:
+    url: https://drive.google.com/corp/drive/folders/1tcA2WoeRNYp5tfp9BVmbX-vs_qFslmwu
+    display: code (gdrive)
+  link4:
+    url: https://www.youtube.com/watch?v=JNeLB7Ahcg4
+    display: video
+
 - title: Neural-PIL&#58; Neural Pre-Integrated Lighting for Reflectance Decomposition
   image: neural_pil_neurips_21.gif
   description: Neural reflectance decomposition from unconstrained image collections with a novel illumination representation and pre-integration network.

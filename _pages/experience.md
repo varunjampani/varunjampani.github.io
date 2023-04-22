@@ -39,6 +39,7 @@ permalink: /experience
 
 <h3>Talks</h3>
 <ul>
+<li> Guest lecture on '3D from Internet Image Collections' in Deep Learning course, Northeastern University, MA, US.</li>
 <li>Talk on 'Publishing in top vision conferences' at <a href="https://cvit.iiit.ac.in/summerschool2022/">Summer school on AI</a> at IIIT-Hyderabad, August, 2022.</li>
 <li><a href="https://www.youtube.com/watch?v=aIgC5izulkk">Talk</a> at <a href="https://cvit.iiit.ac.in/workshops/3dvision/">3D Vision Summer school</a> at IIIT-Hyderabad, May, 2022.</li>
 <li><strong>Practical 3D object understanding from image collections and videos</strong>, University of Massachusetts, Amherst, February, 2022.</li>

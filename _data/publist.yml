@@ -1,3 +1,96 @@
+- title: MetaCLUE&#58; Towards Comprehensive Visual Metaphors Research
+  authors: A. Akula, B. Driscoll, P. Narayana, S. Changpinyo, Z. Jia, S. Damle, G. Pruthi, S. Basu, L. Guibas, W. T. Freeman, Y. Li, V. Jampani
+  venue: Computer Vision and Pattern Recognition, CVPR'23
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2212.09898
+    display: pdf
+  link2:
+    url: https://metaclue.github.io/
+    display: project page
+  link3:
+    url: hhttps://www.youtube.com/watch?v=V3TmeNETL-o
+    display: video
+
+- title: Hi-LASSIE&#58; High-Fidelity Articulated Shape and Skeleton Discovery from Sparse Image Ensemble
+  authors: C-H. Yao, W-C. Hung, Y. Li, M. Rubinstein, M-H. Yang, V. Jampani
+  venue: Computer Vision and Pattern Recognition, CVPR'23
+  number_link: 4
+  link1:
+    url: https://arxiv.org/abs/2212.11042
+    display: pdf
+  link2:
+    url: https://chhankyao.github.io/hi-lassie/
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=s9FWABEm0WU
+    display: video
+  link4:
+    url: 
+    display: code (soon)
+
+- title: LOCATE&#58; Localize and Transfer Object Parts for Weakly Supervised Affordance Grounding
+  authors: G. Li, V. Jampani, D. Sun, L. Sevilla-Lara
+  venue: Computer Vision and Pattern Recognition, CVPR'23
+  number_link: 4
+  link1:
+    url: https://arxiv.org/abs/2303.09665
+    display: pdf
+  link2:
+    url: https://reagan1311.github.io/locate/
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=RLHansdFxII
+    display: video
+  link4:
+    url: https://github.com/Reagan1311/LOCATE
+    display: code (github)
+
+- title: DreamBooth&#58; Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation
+  authors: N. Ruiz, Y. Li, V. Jampani, Y. Pritch, M. Rubinstein, K. Aberman
+  venue: Computer Vision and Pattern Recognition, CVPR'23
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2208.12242
+    display: pdf
+  link2:
+    url: https://dreambooth.github.io/
+    display: project page
+  link3:
+    url: https://github.com/google/dreambooth
+    display: code (dataset - github)
+
+- title: ShapeClipper&#58; Scalable 3D Shape Learning from Single-View Images via Geometric and CLIP-based Consistency
+  authors: Z. Huang, V. Jampani, N. A. Thai, Y. Li, S. Stojanov, J. M. Rehg
+  venue: Computer Vision and Pattern Recognition, CVPR'23
+  number_link: 4
+  link1:
+    url: https://arxiv.org/abs/2304.06247
+    display: pdf
+  link2:
+    url: https://zixuanh.com/projects/shapeclipper.html
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=BxTGVjXoXu8
+    display: video
+  link4:
+    url: https://github.com/val-iisc/NoisyTwins
+    display: code (github)
+
+- title: NoisyTwins&#58; Class-Consistent and Diverse Image Generation through StyleGANs
+  authors: H. Rangwani, L. Bansal, K. Sharma, T. Karmali, V. Jampani, R. V. Babu
+  venue: Computer Vision and Pattern Recognition, CVPR'23
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2304.05866
+    display: pdf
+  link2:
+    url: https://rangwani-harsh.github.io/NoisyTwins/
+    display: project page
+  link3:
+    url: https://github.com/val-iisc/NoisyTwins
+    display: code (github)
+
 - title: Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis
   authors: W. Feng, X. He, T. J. Fu, V. Jampani, A. Akula, P. Narayana, S. Basu, X. E. Wang, W. Y. Wang
   venue: International Conference on Learning Representations, ICLR'23

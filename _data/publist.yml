@@ -1,3 +1,95 @@
+- title: Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis
+  authors: W. Feng, X. He, T. J. Fu, V. Jampani, A. Akula, P. Narayana, S. Basu, X. E. Wang, W. Y. Wang
+  venue: International Conference on Learning Representations, ICLR'23
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2212.05032
+    display: pdf
+  link2:
+    url: https://weixi-feng.github.io/structure-diffusion-guidance/
+    display: project page
+  link3:
+    url: https://github.com/weixi-feng/Structured-Diffusion-Guidance
+    display: code (github)
+
+- title: LASSIE&#58; Learning Articulated Shapes from Sparse Image Ensemble via 3D Part Discovery
+  authors: C-H. Yao, W-C. Hung, Y. Li, M. Rubinstein, M-H. Yang, V. Jampani
+  venue: Neural Information Processing Systems, NeurIPS'22
+  number_link: 4
+  link1:
+    url: https://arxiv.org/abs/2207.03434
+    display: pdf
+  link2:
+    url: https://chhankyao.github.io/lassie/
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=MhQaHzC4Sn0
+    display: video
+  link4:
+    url: https://github.com/google/lassie
+    display: code (github)
+
+- title: SAMURAI&#58; Shape and Material from Unconstrained Real-world Arbitrary Image Collections
+  authors: M. Boss, A. Engelhardt, A. Kar, Y. Li, D. Sun, J. Barron, H. Lensch, V. Jampani
+  venue: Neural Information Processing Systems, NeurIPS'22
+  number_link: 4
+  link1:
+    url: https://arxiv.org/abs/2205.15768
+    display: pdf
+  link2:
+    url: https://markboss.me/publication/2022-samurai/
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=LlYuGDjXp-8
+    display: video
+  link4:
+    url: https://github.com/google/samurai
+    display: code (github)
+
+- title: Polynomial Neural Fields for Subband Decomposition and Manipulation
+  authors: G. Yang, S. Benaim, V. Jampani, K. Genova, J. Barron, T. Funkhouser, B. Hariharan, S. Belongie
+  venue: Neural Information Processing Systems, NeurIPS'22
+  number_link: 2
+  link1:
+    url: https://arxiv.org/abs/2210.15909
+    display: pdf
+  link2:
+    url: https://github.com/stevenygd/PNF
+    display: code (github)
+
+- title: Subsidiary Prototype Alignment for Universal Domain Adaptation
+  authors: J. N. Kundu&#42;, S. Bhambri&#42;, A. Kulkarni&#42;, H. Sarkar, V. Jampani, R. V. Babu (&#42;equal contribution)
+  venue: Neural Information Processing Systems, NeurIPS'22
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2210.15909
+    display: pdf
+  link2:
+    url: https://sites.google.com/corp/view/spa-unida
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=ENJMz-Eg87k
+    display: video
+
+- title: CPL&#58; Counterfactual Prompt Learning for Vision and Language Models
+  authors: X. He, D. Yang, W. Feng, T. J. Fu, A. Akula, V. Jampani, P. Narayana, S. Basu, W. Y. Wang, X. E. Wang
+  venue: Empirical Methods in Natural Language Processing, EMNLP'22
+  number_link: 2
+  link1:
+    url: https://arxiv.org/abs/2210.10362
+    display: pdf
+  link2:
+    url: https://github.com/eric-ai-lab/CPL
+    display: code (github)
+
+- title: Multi-Frame Video Prediction with Learnable Motion Encodings
+  authors: R. Jasti, V. Jampani, D. Sun, M-H. Yang
+  venue: International Conference on Image Processing, ICIP'22
+  number_link: 1
+  link1:
+    url: https://ieeexplore.ieee.org/document/9897483
+    display: pdf
+
 - title: Planes vs. Chairs&#58; Category-guided 3D shape learning without any 3D cues
   authors: Z. Huang, S. Stojanov, A. Thai, V. Jampani, J. M. Rehg
   venue: European Conference on Computer Vision, ECCV'22

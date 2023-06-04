@@ -14,6 +14,7 @@ permalink: /experience
 
 <ul>
 <li><strong>Best Paper Honorable Mention</strong> award at CVPR’18.</li>
+<li><strong>Best Paper Award Candidate</strong> at CVPR’23.</li>
 <li><strong>Nvidia Pioneering Research Award</strong>, 2018.</li>
 <li><strong>Summa cum laude (highest honors)</strong> from the University of Tübingen for my PhD dissertation.</li>
 <li><strong>Outstanding Reviewer Awards</strong> at CVPR'19, CVPR’18, CVPR’17 and ECCV’16.</li>

@@ -22,7 +22,6 @@ Refer to my <a href="https://scholar.google.com/citations?hl=en&user=1Cv6Sf4AAAA
 <!--  <p>{{ publi.description }}</p> -->
 
  <p><em>{{ publi.authors }}</em></p>
-
  <p>{{ publi.venue }}</p>
 
  {% if publi.number_link == 1 %}

@@ -1,3 +1,79 @@
+- title: Planes vs. Chairs&#58; Category-guided 3D shape learning without any 3D cues
+  authors: Z. Huang, S. Stojanov, A. Thai, V. Jampani, J. M. Rehg
+  venue: European Conference on Computer Vision, ECCV'22
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2204.10235
+    display: pdf
+  link2:
+    url: https://zixuanh.com/projects/eccv2022-multiclass3D.html
+    display: project page
+  link3:
+    url: https://github.com/zxhuang1698/cat-3d
+    display: code (github)
+
+- title: Improving GANs for Long-Tailed Data through Group Spectral Regularization
+  authors: H. Rangwani, N. Jaswani, T. Karmali, V. Jampani, R. V. Babu
+  venue: European Conference on Computer Vision, ECCV'22
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2208.09932
+    display: pdf
+  link2:
+    url: https://sites.google.com/corp/view/gsr-eccv22
+    display: project page
+  link3:
+    url: https://github.com/val-iisc/gSRGAN
+    display: code (github)
+
+- title: Hierarchical Semantic Regularization of Latent Spaces in StyleGANs
+  authors: T. Karmali, R. Parihar, S. Agrawal, H. Rangwani, V. Jampani, M. Singh, R. V. Babu
+  venue: European Conference on Computer Vision, ECCV'22
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2208.03764
+    display: pdf
+  link2:
+    url: https://sites.google.com/corp/view/hsr-eccv22/
+    display: project page
+  link3:
+    url: https://github.com/val-iisc/HSR
+    display: code (github)
+
+- title: Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation
+  authors: J. N. Kundu&#42;, S. Bhambri&#42;, A. Kulkarni*, H. Sarkar, V. Jampani, R. V. Babu (&#42;equal contribution)
+  venue: European Conference on Computer Vision, ECCV'22
+  number_link: 4
+  link1:
+    url: https://arxiv.org/abs/2207.13247
+    display: pdf
+  link2:
+    url: https://sites.google.com/corp/view/sticker-sfda
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=ENJMz-Eg87k
+    display: video
+  link4:
+    url: https://github.com/val-iisc/StickerDA
+    display: code (github)
+
+- title: Balancing Discriminability and Transferability for Source-Free Domain Adaptation
+  authors: J. N. Kundu&#42;, A. Kulkarni&#42;, S. Bhambri*, D. Mehta, S. Kulkarni, V. Jampani, R. V. Babu (&#42;equal contribution)
+  venue: International Conference on Machine Learning, ICML'22
+  number_link: 4
+  link1:
+    url: https://arxiv.org/abs/2206.08009
+    display: pdf
+  link2:
+    url: https://sites.google.com/corp/view/mixup-sfda
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=Chp1hTtRcuk
+    display: video
+  link4:
+    url: https://github.com/val-iisc/MixupDA
+    display: code (github)
+
 - title: Learning ABCs&#58; Approximate Bijective Correspondence for Isolating Factors of Variation with Weak Supervision
   authors: K. A. Murphy, V. Jampani, S. Ramalingam, A. Makadia
   venue: Computer Vision and Pattern Recognition, CVPR'22 

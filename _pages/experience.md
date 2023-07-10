@@ -13,8 +13,8 @@ permalink: /experience
 <h3>Notable Achievements and Awards</h3>
 
 <ul>
+<li><strong>Best Student Paper Honorable Mention</strong> award at CVPR’23.</li>
 <li><strong>Best Paper Honorable Mention</strong> award at CVPR’18.</li>
-<li><strong>Best Paper Award Candidate</strong> at CVPR’23.</li>
 <li><strong>Nvidia Pioneering Research Award</strong>, 2018.</li>
 <li><strong>Summa cum laude (highest honors)</strong> from the University of Tübingen for my PhD dissertation.</li>
 <li><strong>Outstanding Reviewer Awards</strong> at CVPR'19, CVPR’18, CVPR’17 and ECCV’16.</li>
@@ -31,7 +31,7 @@ permalink: /experience
 
 <h3>Program Committee</h3>
 <ul>
-<li><strong>Meta-Reviewer:</strong> CVPR'20, BMVC'21, AAAI'21, IJCAI'21, BMVC'22, WACV'23, AAAI'23, CVPR'23, BMVC'23, NeurIPS'23.</li>
+<li><strong>Meta-Reviewer:</strong> CVPR'20, BMVC'21, AAAI'21, IJCAI'21, BMVC'22, WACV'23, AAAI'23, CVPR'23, BMVC'23, NeurIPS'23, WACV'24, CVPR'24.</li>
 <li><strong>Reviewer:</strong> I usually serve as a reviewer for the following conferences and journals: CVPR, NIPS, ICCV, ECCV, PAMI, SIGGRAPH Asia, NSF review panel.</li>
 <li>I received <strong>Outstanding Reviewer</strong> awards at CVPR'19, CVPR'18, CVPR'17 and ECCV'16. </li>
 </ul>

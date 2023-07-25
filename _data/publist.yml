@@ -1,3 +1,42 @@
+- title: DreamBooth3D&#58; Subject-Driven Text-to-3D Generation
+  authors: A. Raj, S. Kaza, B. Poole, M. Niemeyer, N. Ruiz, B. Mildenhall, S. Zada, K. Aberman, M. Rubinstein, J. Barron, Y, Li, V. Jampani
+  venue: International Conference on Computer Vision, ICCV'23
+  number_link: 3
+  link1:
+    url: http://arxiv.org/abs/2303.13508
+    display: pdf
+  link2:
+    url: https://dreambooth3d.github.io/
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=kKVDrbfvOoA
+    display: video
+
+- title: ASIC&#58; Aligning Sparse in-the-wild Image Collections
+  authors: K. Gupta, V. Jampani, C. Esteves, A. Shrivastava, A. Makadia, N. Snavely, A. Kar
+  venue: International Conference on Computer Vision, ICCV'23
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2303.16201
+    display: pdf
+  link2:
+    url: https://kampta.github.io/asic/
+    display: project page
+  link3:
+    url: https://www.youtube.com/watch?v=fLjkkMriuoY
+    display: video
+
+- title: LU-NeRF&#58; Scene and Pose Estimation by Synchronizing Local Unposed NeRFs
+  authors: Z. Cheng, C. Esteves, V. Jampani, A. Kar, S. Maji, A. Makadia
+  venue: International Conference on Computer Vision, ICCV'23
+  number_link: 2
+  link1:
+    url: https://arxiv.org/abs/2306.05410
+    display: pdf
+  link2:
+    url: https://people.cs.umass.edu/~zezhoucheng/lu-nerf/
+    display: project page
+
 - title: MetaCLUE&#58; Towards Comprehensive Visual Metaphors Research
   authors: A. Akula, B. Driscoll, P. Narayana, S. Changpinyo, Z. Jia, S. Damle, G. Pruthi, S. Basu, L. Guibas, W. T. Freeman, Y. Li, V. Jampani
   venue: Computer Vision and Pattern Recognition, CVPR'23

@@ -15,7 +15,9 @@ permalink: /
 I am a researcher at Google Research in Cambridge, MA, USA. Prior to that, I was a researcher at Nvidia Research in Westford, MA, USA. I completed my PhD at [Perceiving Systems](https://ps.is.tuebingen.mpg.de) department, Max-Planck Institute (MPI) for Intelligent Systems in T&uuml;bingen, Germany. My PhD advisor was [Prof. Peter V. Gehler](http://files.is.tue.mpg.de/pgehler//).
 I did my bachelors and masters in Computer Science at [IIIT-Hyderabad](https://www.iiit.ac.in), India.
 
-My work lies at the intersection of Computer Vision and Machine Learning. Specifically, I am working on leveraging machine learning techniques for understanding and improving computer vision models. The main research question is how different components of a computer vision system need to learn and interact with each other for robust perception.
+<!-- My work lies at the intersection of Computer Vision and Machine Learning. Specifically, I am working on leveraging machine learning techniques for understanding and improving computer vision models. The main research question is how different components of a computer vision system need to learn and interact with each other for robust perception. -->
+
+My research interests include Computer Vision and Machine Learning. Specifically, I am mainly interested in automatic 3D and 4D object understanding from internet image collections and videos leveraging both reconstruction and generation techniques. In addition, I also work on understanding and generating creative images such as visual metaphors, paintings etc. 
 
 <!-- **_I am looking for motivated students for collaborations and internships. If interested, please drop me an email with your CV._** -->
 

@@ -1,3 +1,9 @@
+- date: October, 2023
+  headline: Invited talk on '3D of Everything from internet image collections' at ICCV'23 tutorial on <a href="https://cvit.iiit.ac.in/summerschool2022/">Learning with Noisy and Unlabeled Data</a>.
+  
+- date: October, 2023
+  headline: A paper on 'Articulated hand-object pose estimation' (oral) accepted to 3DV'24.
+
 - date: September, 2023
   headline: Papers on 'Articulated animal reconstruction from noisy internet images (ARTIC3D)', 'A dataset of image collections with near-perfect 3D annotations' (NAVI, benchmark track), 'Stable diffusion complements Dino for zero-shot semantic correspondences' and 'Using LLMs for layout generation (LayoutGPT)' accepted to NeurIPS'23.
 

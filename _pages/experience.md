@@ -103,10 +103,18 @@ permalink: /experience
 <h4>Research</h4>
 
 <ul>
+<li><strong>Stability AI, USA</strong>
+<ul>
+	<li>Lead Researcher <em>(November&rsquo;23 &ndash; Till date)</em></li>
+	<li>3D foundation models, reconstructions and generations.</li>
+</ul>
+</li>
+ 
 <li><strong>Google Research, Cambridge, MA, USA</strong>
 <ul>
-	<li>Research Scientist <em>(July&rsquo;19 &ndash; Till date)</em></li>
-	<li>Learning techniques for computer vision applications.</li>
+	<li>Senior Research Scientist <em>(October&rsquo;21 &ndash; October&rsquo;23)</em></li>
+	<li>Research Scientist <em>(July&rsquo;19 &ndash; October&rsquo;21)</em></li>
+	<li>3D reconstruction and generation from internet imagery.</li>
 </ul>
 </li>
 

@@ -1,3 +1,59 @@
+- title: NAVI&#58; Category-Agnostic Image Collections with High-Quality 3D Shape and Pose Annotations
+  authors: V. Jampani&#42;, K. K. Maninis&#42;, A. Engelhardt, A. Karpur, K. Truong, K. Sargent, S. Popov, A. Araujo, R. M. Brualla, K. Patel, D. Vlasic, V. Ferrari, A. Makadia, C. Liu, Y. Li, H. Zhou (&#42;equal contribution)
+  venue: Neural Information Processing Systems, NeurIPS'23
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2306.09109
+    display: pdf
+  link2:
+    url: https://navidataset.github.io/
+    display: project page
+  link3:
+    url: https://github.com/google/navi
+    display: dataset (github)
+
+- title: ARTIC3D&#58; Learning Robust Articulated 3D Shapes from Noisy Web Image Collections
+  authors: C-H. Yao, A. Raj, W-C. Hung, Y. Li, M. Rubinstein, M-H. Yang, V. Jampani
+  venue: Neural Information Processing Systems, NeurIPS'23
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2306.04619
+    display: pdf
+  link2:
+    url: https://chhankyao.github.io/artic3d/
+    display: project page
+  link3:
+    url: https://github.com/chhankyao/artic3d_recon
+    display: code (github)
+
+- title: LayoutGPT&#58; Compositional Visual Planning and Generation with Large Language Models
+  authors: W. Feng&#42;, W. Zhu&#42;, T-J. Fu, V. Jampani, A. Akula, X. He, S. Basu, X. E. Wang, W. Y. Wang (&#42;equal contribution)
+  venue: Neural Information Processing Systems, NeurIPS'23
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2305.15393
+    display: pdf
+  link2:
+    url: https://layoutgpt.github.io/
+    display: project page
+  link3:
+    url: https://github.com/weixi-feng/LayoutGPT
+    display: code (github)
+
+- title: A Tale of Two Features&#58; Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence
+  authors: J. Zhang, C. Herrmann, J. Hur, L. P. Cabrera, V. Jampani, D. Sun, M-H. Yang
+  venue: Neural Information Processing Systems, NeurIPS'23
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2305.15347
+    display: pdf
+  link2:
+    url: https://sd-complements-dino.github.io/
+    display: project page
+  link3:
+    url: https://github.com/Junyi42/sd-dino
+    display: code (github)
+
 - title: DreamBooth3D&#58; Subject-Driven Text-to-3D Generation
   authors: A. Raj, S. Kaza, B. Poole, M. Niemeyer, N. Ruiz, B. Mildenhall, S. Zada, K. Aberman, M. Rubinstein, J. Barron, Y, Li, V. Jampani
   venue: International Conference on Computer Vision, ICCV'23
@@ -65,8 +121,8 @@
     url: https://www.youtube.com/watch?v=s9FWABEm0WU
     display: video
   link4:
-    url: 
-    display: code (soon)
+    url: https://github.com/google/hi-lassie
+    display: code (github)
 
 - title: LOCATE&#58; Localize and Transfer Object Parts for Weakly Supervised Affordance Grounding
   authors: G. Li, V. Jampani, D. Sun, L. Sevilla-Lara

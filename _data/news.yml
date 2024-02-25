@@ -1,3 +1,9 @@
+- date: January, 2024
+  headline: A paper on 'Controllable human motion generation' accepted to ICLR'24.
+
+- date: January, 2024
+  headline: Area chairing for ICML'24 and ECCV'24.
+
 - date: November, 2023
   headline: Joined Stability AI as a 3D research lead.
 
@@ -11,7 +17,7 @@
   headline: Papers on 'Articulated animal reconstruction from noisy internet images (ARTIC3D)', 'A dataset of image collections with near-perfect 3D annotations' (NAVI, benchmark track), 'Stable diffusion complements Dino for zero-shot semantic correspondences' and 'Using LLMs for layout generation (LayoutGPT)' accepted to NeurIPS'23.
 
 - date: September, 2023
-  headline: Area charining for ICLR'24.
+  headline: Area chairing for ICLR'24.
 
 - date: July, 2023
   headline: Papers on 'DreamBooth3D', 'Aligning sparse image collections (ASIC)' and 'NeRF and pose optimization (LU-NeRF)' accepted to ICCV'23.

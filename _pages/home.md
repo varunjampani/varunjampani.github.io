@@ -19,6 +19,8 @@ I did my bachelors and masters in Computer Science at [IIIT-Hyderabad](https://w
 
 <!-- My research interests include 3D/4D Computer Vision and Machine Learning. Specifically, I am mainly interested in automatic 3D and 4D object understanding from internet image collections and videos leveraging both reconstruction and generation techniques. In addition, I also work on understanding and generating creative images such as visual metaphors, paintings etc. -->
 
+At Stability AI, we strive to advance the state-of-the-art in vision foundation models with diverse applications in understanding, reconstruction and generation tasks in both 2D and 3D. A central research question is how to train generative models that can act as generic yet powerful priors for the visual world around us.
+
 
 <!-- **_I am looking for motivated students for collaborations and internships. If interested, please drop me an email with your CV._** -->
 

@@ -31,7 +31,7 @@ permalink: /experience
 
 <h3>Academic Services</h3>
 <ul>
-<li><strong>Meta-Reviewer:</strong> CVPR'20, BMVC'21, AAAI'21, IJCAI'21, BMVC'22, WACV'23, AAAI'23, CVPR'23, BMVC'23, NeurIPS'23, WACV'24, CVPR'24, ICLR'24, ECCV'24, ICML'24</li>
+<li><strong>Meta-Reviewer:</strong> CVPR'20, BMVC'21, AAAI'21, IJCAI'21, BMVC'22, WACV'23, AAAI'23, CVPR'23, BMVC'23, NeurIPS'23, WACV'24, CVPR'24, ICLR'24, ECCV'24, ICML'24, BMVC'24, NeurIPS'24.</li>
 <li><strong>Reviewer:</strong> I usually serve as a reviewer for the following conferences and journals: CVPR, NIPS, ICCV, ECCV, PAMI, SIGGRAPH Asia, NSF review panel</li>
 <li>I received <strong>Outstanding Reviewer</strong> awards at CVPR'19, CVPR'18, CVPR'17 and ECCV'16 </li>
 <li><strong>PhD Thesis Committee:</strong> Zezhou Cheng (UMass, 2023), Chun-Han Yao (UCMerced, 2023)</li>

@@ -1,3 +1,84 @@
+- title: ZeroShape&#58; Regression-based Zero-shot Shape Reconstruction
+  authors: Z. Huang, S. Stojanov, A. Thai, V. Jampani, J. M. Rehg
+  venue: Computer Vision and Pattern Recognition, CVPR'24
+  number_link: 4
+  link1:
+    url: https://arxiv.org/abs/2312.14198
+    display: pdf
+  link2:
+    url: https://zixuanh.com/projects/zeroshape.html
+    display: project page
+  link3:
+    url: https://github.com/zxhuang1698/ZeroShape
+    display: code (github)
+  link4:
+    url: https://huggingface.co/spaces/zxhuang1698/ZeroShape
+    display: demo (HF)
+
+- title: Telling Left from Right&#58; Identifying Geometry-Aware Semantic Correspondence
+  authors: J. Zhang, C. Herrmann, J. Hur, E. Chen, V. Jampani, D. Sun, M. H. Yang
+  venue: Computer Vision and Pattern Recognition, CVPR'24
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2311.17034
+    display: pdf
+  link2:
+    url: https://telling-left-from-right.github.io/
+    display: project page
+  link3:
+    url: https://github.com/Junyi42/geoaware-sc
+    display: code (github)
+
+- title: Nerfiller&#58; Completing Scenes via Generative 3D Inpainting
+  authors: E Weber, A Holynski, V Jampani, S Saxena, N Snavely, A Kar, A. Kanazawa
+  venue: Computer Vision and Pattern Recognition, CVPR'24
+  number_link: 3
+  link1:
+    url: http://arxiv.org/abs/2312.04560
+    display: pdf
+  link2:
+    url: https://ethanweber.me/nerfiller/
+    display: project page
+  link3:
+    url: https://github.com/ethanweber/nerfiller
+    display: code (github)
+
+- title: HyperDreambooth&#58; Hypernetworks for Fast Personalization of Text-to-Image Models
+  authors: N. Ruiz, Y. Li, V. Jampani, W.Wei, T. Hou, Y. Pritch, N. Wadhwa, M. Rubinstein, K. Aberman
+  venue: Computer Vision and Pattern Recognition, CVPR'24
+  number_link: 2
+  link1:
+    url: https://arxiv.org/abs/2307.06949
+    display: pdf
+  link2:
+    url: https://hyperdreambooth.github.io/
+    display: project page
+
+- title: OmniControl&#58; Control Any Joint at Any Time for Human Motion Generation
+  authors: Y. Xie, V. Jampani, L. Zhong, D. Sun, H. Jiang
+  venue: International Conference on Learning Representations, ICLR'24
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2310.08580
+    display: pdf
+  link2:
+    url: https://neu-vi.github.io/omnicontrol/
+    display: project page
+  link3:
+    url: https://github.com/neu-vi/omnicontrol
+    display: code (github)
+
+- title: ContactArt&#58; Learning 3D Interaction Priors for Category-level Articulated Object and Hand Poses Estimation
+  authors: Z. Zhu, J. Wang, Y. Qin, D. Sun, V. Jampani, X. Wang
+  venue: International Conference on 3D Vision, 3DV'24
+  number_link: 2
+  link1:
+    url: https://arxiv.org/abs/2305.01618
+    display: pdf
+  link2:
+    url: https://zehaozhu.github.io/ContactArt/
+    display: project page
+
 - title: NAVI&#58; Category-Agnostic Image Collections with High-Quality 3D Shape and Pose Annotations
   authors: V. Jampani&#42;, K. K. Maninis&#42;, A. Engelhardt, A. Karpur, K. Truong, K. Sargent, S. Popov, A. Araujo, R. M. Brualla, K. Patel, D. Vlasic, V. Ferrari, A. Makadia, C. Liu, Y. Li, H. Zhou (&#42;equal contribution)
   venue: Neural Information Processing Systems, NeurIPS'23

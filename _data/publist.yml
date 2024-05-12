@@ -1,3 +1,92 @@
+- title: Probing the 3D Awareness of Visual Foundation Models
+  authors: A. Engelhardt, A. Raj, M. Boss, Y. Zhang, A. Kar, Y. Li, D. Sun, R. M. Brualla, J. T. Barron, H. Lensch, V. Jampani
+  venue: Computer Vision and Pattern Recognition, CVPR'24
+  number_link: 2
+  link1:
+    url: https://arxiv.org/abs/2404.08636
+    display: pdf
+  link2:
+    url: https://github.com/mbanani/probe3d
+    display: code (github)
+    
+- title: SHINOBI&#58; Shape and Illumination using Neural Object Decomposition via BRDF Optimization In-the-wild
+  authors: A. Engelhardt, A. Raj, M. Boss, Y. Zhang, A. Kar, Y. Li, D. Sun, R. M. Brualla, J. T. Barron, H. Lensch, V. Jampani
+  venue: Computer Vision and Pattern Recognition, CVPR'24
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2401.10171
+    display: pdf
+  link2:
+    url: https://shinobi.aengelhardt.com/
+    display: project page
+  link3:
+    url: 
+    display: code (coming soon)
+
+- title: One-Shot Open Affordance Learning with Foundation Models
+  authors: G. Li, D. Sun, L. Sevilla-Lara, V. Jampani
+  venue: Computer Vision and Pattern Recognition, CVPR'24
+  number_link: 1
+  link1:
+    url: https://arxiv.org/abs/2311.17776
+    display: pdf
+
+- title: Alchemist&#58; Parametric Control of Material Properties with Diffusion Models
+  authors: P. Sharma, V. Jampani, Y. Li, X. Jia, D. Lagun, F. Durand, W. T. Freeman, M. Matthews
+  venue: Computer Vision and Pattern Recognition, CVPR'24 (oral)
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2312.02970
+    display: pdf
+  link2:
+    url: https://www.prafullsharma.net/alchemist/
+    display: project page
+  link3:
+    url: 
+    display: code (coming soon)
+
+- title: DiffusionLight&#58; Light Probes for Free by Painting a Chrome Ball
+  authors: P. Phongthawee, W. Chinchuthakun, N. Sinsunthithet, A. Raj, V. Jampani, P. Khungurn, S. Suwajanakorn
+  venue: Computer Vision and Pattern Recognition, CVPR'24 (oral)
+  number_link: 4
+  link1:
+    url: https://arxiv.org/abs/2312.09168
+    display: pdf
+  link2:
+    url: https://diffusionlight.github.io/
+    display: project page
+  link3:
+    url: https://github.com/DiffusionLight/DiffusionLight
+    display: code (github)
+  link4:
+    url: https://colab.research.google.com/drive/15pC4qb9mEtRYsW3utXkk-jnaeVxUy-0S?usp=sharing&sandboxMode=true
+    display: colab notebook
+
+- title: MVD-Fusion&#58; Single-view 3D via Depth-consistent Multi-view Generation
+  authors: H. Hu, Z. Zhou, V. Jampani, S. Tulsiani
+  venue: Computer Vision and Pattern Recognition, CVPR'24
+  number_link: 3
+  link1:
+    url: https://arxiv.org/abs/2404.03656
+    display: pdf
+  link2:
+    url: https://mvd-fusion.github.io/
+    display: project page
+  link3:
+    url: https://github.com/zhizdev/mvdfusion
+    display: code (github)
+
+- title: UniGS&#58; Unified Representation for Image Generation and Segmentation
+  authors: L. Qi, L. Yang, W. Guo, Y. Xu, B. Du, V. Jampani, M. H. Yang
+  venue: Computer Vision and Pattern Recognition, CVPR'24
+  number_link: 2
+  link1:
+    url: https://arxiv.org/abs/2312.01985
+    display: pdf
+  link2:
+    url: https://github.com/qqlu/Entity
+    display: code (github)
+
 - title: ZeroShape&#58; Regression-based Zero-shot Shape Reconstruction
   authors: Z. Huang, S. Stojanov, A. Thai, V. Jampani, J. M. Rehg
   venue: Computer Vision and Pattern Recognition, CVPR'24
@@ -70,7 +159,7 @@
 
 - title: ContactArt&#58; Learning 3D Interaction Priors for Category-level Articulated Object and Hand Poses Estimation
   authors: Z. Zhu, J. Wang, Y. Qin, D. Sun, V. Jampani, X. Wang
-  venue: International Conference on 3D Vision, 3DV'24
+  venue: International Conference on 3D Vision, 3DV'24 (oral)
   number_link: 2
   link1:
     url: https://arxiv.org/abs/2305.01618

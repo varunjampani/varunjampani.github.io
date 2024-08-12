@@ -107,8 +107,9 @@ permalink: /experience
 <ul>
 <li><strong>Stability AI, USA</strong>
 <ul>
-	<li>Lead Researcher <em>(November&rsquo;23 &ndash; Till date)</em></li>
-	<li>3D foundation models, reconstructions and generations.</li>
+	<li>VP Research <em>(August&rsquo;24 &ndash; Till date)</em></li>
+	<li>Lead Researcher <em>(November&rsquo;23 &ndash; August&rsquo;24)</em></li>
+	<li>Image, Video and 3D Generative Models.</li>
 </ul>
 </li>
  

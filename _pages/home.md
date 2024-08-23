@@ -12,7 +12,7 @@ permalink: /
 
 <div class="col-sm-8">
 
-I am a lead researcher at Stability AI, leading the generative vision research on image, video and 3D foundation models. In the past, I was a researcher at Google Research and Nvidia Research. I completed my PhD at [Perceiving Systems](https://ps.is.tuebingen.mpg.de) department, Max-Planck Institute (MPI) for Intelligent Systems in T&uuml;bingen, Germany. My PhD advisor was [Prof. Peter V. Gehler](http://files.is.tue.mpg.de/pgehler//).
+I am VP Research at Stability AI, leading the generative vision research on image, video and 3D foundation models. In the past, I was a researcher at Google Research and Nvidia Research. I completed my PhD at [Perceiving Systems](https://ps.is.tuebingen.mpg.de) department, Max-Planck Institute (MPI) for Intelligent Systems in T&uuml;bingen, Germany. My PhD advisor was [Prof. Peter V. Gehler](http://files.is.tue.mpg.de/pgehler//).
 I did my bachelors and masters in Computer Science at [IIIT-Hyderabad](https://www.iiit.ac.in), India.
 
 <!-- My work lies at the intersection of Computer Vision and Machine Learning. Specifically, I am working on leveraging machine learning techniques for understanding and improving computer vision models. The main research question is how different components of a computer vision system need to learn and interact with each other for robust perception. -->

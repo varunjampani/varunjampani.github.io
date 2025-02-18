@@ -31,7 +31,7 @@ permalink: /experience
 
 <h3>Academic Services</h3>
 <ul>
-<li><strong>Meta-Reviewer:</strong> CVPR'20, BMVC'21, AAAI'21, IJCAI'21, BMVC'22, WACV'23, AAAI'23, CVPR'23, BMVC'23, NeurIPS'23, WACV'24, CVPR'24, ICLR'24, ECCV'24, ICML'24, BMVC'24, NeurIPS'24, CVPR'25.</li>
+<li><strong>Meta-Reviewer:</strong> CVPR'20, BMVC'21, AAAI'21, IJCAI'21, BMVC'22, WACV'23, AAAI'23, CVPR'23, BMVC'23, NeurIPS'23, WACV'24, CVPR'24, ICLR'24, ECCV'24, ICML'24, BMVC'24, NeurIPS'24, CVPR'25, ICCV'25, NeurIPS'25.</li>
 <li><strong>Reviewer:</strong> I serve as a reviewer for the following conferences and journals: CVPR, NIPS, ICCV, ECCV, PAMI, SIGGRAPH Asia, NSF review panel</li>
 <li>I received <strong>Outstanding Reviewer</strong> awards at CVPR'19, CVPR'18, CVPR'17 and ECCV'16 </li>
 <li><strong>PhD Thesis Committee:</strong> Zezhou Cheng (UMass, 2023), Chun-Han Yao (UCMerced, 2023)</li>
@@ -41,6 +41,9 @@ permalink: /experience
 
 <h3>Talks</h3>
 <ul>
+	
+<li>Invited talk on 'A Tale of Two Directions for 3D Generative Models', UIUC, December, 2024.</li>
+<li>Guest lecture in Advanced Topics in Computer Vision, University of California, Merced, December, 2024.</li>	
 <li>Guest lecture on 'A Tale of Two Directions for 3D Generative Models' in Frontier Topics in Generative AI, Arizona State University, MA, October, 2024.</li>
 <li>Invited talk on 'Thinking Fast and Slow: Recent Trends in 3D Generative Models' at ECCV'24 Tutorial on <a href="https://efficient-genai.github.io/index.html">Efficient Generative AI Tutorial</a>, October, 2024.</li>
 <li>Keynote talk on 'Instance-Specific 2D and 3D Generation' at ECCV'24 workshop on <a href="https://ilr-workshop.github.io/ECCVW2024/">Instance-Level Recognition Workshop</a>, October, 2024.</li>

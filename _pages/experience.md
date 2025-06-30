@@ -41,7 +41,9 @@ permalink: /experience
 
 <h3>Talks</h3>
 <ul>
-	
+
+<li>Invited talk on 'Diffusion Dialed In: Light and Heavy Adaptations of Diffusion Models for Complex Vision Tasks' at CVPR'25 Workshop on <a href="https://vgm-cvpr.github.io/">Visual Generative Modeling: What's after diffusion</a>, June, 2025.</li>
+<li>Invited talk on 'Diffusion Dialed In: Light and Heavy Adaptations of Diffusion Models for Complex Vision Tasks' at CVPR'25 Workshop on SyntaGen, June, 2025.</li>
 <li>Invited talk on 'A Tale of Two Directions for 3D Generative Models', UIUC, December, 2024.</li>
 <li>Guest lecture in Advanced Topics in Computer Vision, University of California, Merced, December, 2024.</li>	
 <li>Guest lecture on 'A Tale of Two Directions for 3D Generative Models' in Frontier Topics in Generative AI, Arizona State University, MA, October, 2024.</li>

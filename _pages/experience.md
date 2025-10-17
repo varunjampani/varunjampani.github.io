@@ -120,7 +120,6 @@ permalink: /experience
 </ul>
 </li>
 
-<ul>
 <li><strong>Stability AI, USA</strong>
 <ul>
 	<li>VP Research <em>(August&rsquo;24 &ndash; October&rsquo;25)</em></li>

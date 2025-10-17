@@ -113,9 +113,17 @@ permalink: /experience
 <h4>Research</h4>
 
 <ul>
+<li><strong>Arcade AI, USA</strong>
+<ul>
+	<li>Chief AI Officer<em>(October&rsquo;25 &ndash; till date)</em></li>
+	<li>Generative Product Design.</li>
+</ul>
+</li>
+
+<ul>
 <li><strong>Stability AI, USA</strong>
 <ul>
-	<li>VP Research <em>(August&rsquo;24 &ndash; Till date)</em></li>
+	<li>VP Research <em>(August&rsquo;24 &ndash; October&rsquo;25)</em></li>
 	<li>Lead Researcher <em>(November&rsquo;23 &ndash; August&rsquo;24)</em></li>
 	<li>Image, Video and 3D Generative Models.</li>
 </ul>

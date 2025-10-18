@@ -188,8 +188,6 @@ Refer to my <a href="https://scholar.google.com/citations?hl=en&user=1Cv6Sf4AAAA
 
 </div> -->
 
-## Experience
-
 <p>&nbsp;</p>
 
 <h3>Notable Achievements and Awards</h3>
@@ -401,5 +399,3 @@ Refer to my <a href="https://scholar.google.com/citations?hl=en&user=1Cv6Sf4AAAA
 
 <p>&nbsp;</p>
 
-
-<!-- <h3>Resume</h3>

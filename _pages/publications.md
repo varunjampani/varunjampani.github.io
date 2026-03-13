@@ -13,7 +13,7 @@ Refer to my <a href="https://scholar.google.com/citations?hl=en&user=1Cv6Sf4AAAA
 
 {% for publi in site.data.publist %}
 
-<div class="col-sm-11 clearfix">
+<div class="publication-item">
  <div class="well">
  <pubtit>{{ publi.title }}</pubtit>
 
@@ -76,7 +76,7 @@ Refer to my <a href="https://scholar.google.com/citations?hl=en&user=1Cv6Sf4AAAA
 
 {% for publi in site.data.theseslist limit:6 %}
 
-<div class="col-sm-11 clearfix">
+<div class="publication-item">
  <div class="well">
  <pubtit>{{ publi.title }}</pubtit>
 

@@ -6,11 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-<div class="container-fluid">
+<div class="hero-section">
 
-<div class="row">
-
-<div class="col-sm-8">
+<div class="hero-content">
 
 I am Chief AI Officer at Arcade AI. Prior to that I was a VP Research at Stability AI. In the past, I was a researcher at Google Research and Nvidia Research. I completed my PhD at [Perceiving Systems](https://ps.is.tuebingen.mpg.de) department, Max-Planck Institute (MPI) for Intelligent Systems in T&uuml;bingen, Germany. My PhD advisor was [Prof. Peter V. Gehler](http://files.is.tue.mpg.de/pgehler//).
 I did my bachelors and masters in Computer Science at [IIIT-Hyderabad](https://www.iiit.ac.in), India.
@@ -36,7 +34,7 @@ I did my bachelors and masters in Computer Science at [IIIT-Hyderabad](https://w
 
 </div>
 
-<div class="col-sm-4" style="display:table-cell; vertical-align:middle; text-align:left">
+<div class="hero-sidebar">
 
   <ul style="overflow: hidden">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profile_pic.jpeg" class="img-responsive" width="100%" />
@@ -54,7 +52,7 @@ I did my bachelors and masters in Computer Science at [IIIT-Hyderabad](https://w
 </div>
 </div>
 
-<div class="col-sm-12">
+<div class="main-content-section">
 
 ### Publications
   

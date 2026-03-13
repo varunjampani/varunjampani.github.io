@@ -55,7 +55,7 @@ I did my bachelors and masters in Computer Science at [IIIT-Hyderabad](https://w
 
 ### Publications
   
-Refer to my <a href="https://scholar.google.com/citations?hl=en&user=1Cv6Sf4AAAAJ&view_op=list_works"> Google Scholar </a> page for a more up-to-date list of publications.
+Refer to my <a href="https://scholar.google.com/citations?hl=en&user=1Cv6Sf4AAAAJ&view_op=list_works"> Google Scholar </a> page for an up-to-date list of publications.
 
 <!-- {% for publi in site.data.publist limit:30 %}
 

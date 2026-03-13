@@ -50,7 +50,6 @@ I did my bachelors and masters in Computer Science at [IIIT-Hyderabad](https://w
 </div>
 
 </div>
-</div>
 
 <div class="main-content-section">
 
@@ -187,7 +186,6 @@ Refer to my <a href="https://scholar.google.com/citations?hl=en&user=1Cv6Sf4AAAA
 </div> -->
 
 
-## Experience
 
 <p>&nbsp;</p>
 

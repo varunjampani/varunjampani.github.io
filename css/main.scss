@@ -243,9 +243,11 @@ em {
 }
 
 .hero-sidebar img {
-  border-radius: 50%;
-  width: 200px;
-  height: 200px;
+  border-radius: var(--border-radius);
+  width: 100%;
+  max-width: 280px;
+  height: auto;
+  aspect-ratio: 4 / 5;
   object-fit: cover;
   margin-bottom: var(--spacing-sm);
   box-shadow: var(--shadow-md);

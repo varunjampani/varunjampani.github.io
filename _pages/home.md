@@ -368,6 +368,7 @@ Refer to my <a href="https://scholar.google.com/citations?hl=en&user=1Cv6Sf4AAAA
 
 <h3>Talks</h3>
 <ul>
+<li>Invited talk at Boston University, Boston, March, 2026.</li>
 <li>Invited talk at KUIS AI Center, Koç University, November, 2025.</li>
 <li>Keynote talk on 'Crafting Video Diffusion: Precise Inputs and Rich Outputs' at ICCV'25 Workshops on 'AI for 3D Content Creation', 'Generative Scene Completion' and, 'Advances in Image Manipulation', October, 2025.</li>
 <li>Invited talk on 'Diffusion Dialed In: Light and Heavy Adaptations of Diffusion Models for Complex Vision Tasks' at CVPR'25 Workshop on <a href="https://vgm-cvpr.github.io/">Visual Generative Modeling: What's after diffusion</a>, June, 2025.</li>
